@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "20380bea-4f0d-4bba-9c53-d6ff13765348")
-	(paper "A4")
+	(paper "A4" portrait)
 	(lib_symbols
 		(symbol "Jumper:SolderJumper_2_Open"
 			(pin_numbers
@@ -744,1212 +744,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Seeed_Studio_XIAO_Series:XIAO-RP2040-DIP"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "XIAO-RP2040-DIP"
-				(at 5.334 -1.778 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
-				(at 14.478 -32.258 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "XIAO-RP2040-DIP_1_0"
-				(polyline
-					(pts
-						(xy -1.27 -2.54) (xy 29.21 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -5.08) (xy -2.54 -5.08)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -5.08) (xy -1.27 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -8.89) (xy -2.54 -8.89)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -8.89) (xy -1.27 -5.08)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -12.7) (xy -2.54 -12.7)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -12.7) (xy -1.27 -8.89)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -16.51) (xy -2.54 -16.51)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -16.51) (xy -1.27 -12.7)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -20.32) (xy -2.54 -20.32)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -24.13) (xy -2.54 -24.13)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -27.94) (xy -2.54 -27.94)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -30.48) (xy -1.27 -16.51)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 29.21 -2.54) (xy 29.21 -5.08)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 29.21 -5.08) (xy 29.21 -8.89)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 29.21 -8.89) (xy 29.21 -12.7)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 29.21 -12.7) (xy 29.21 -30.48)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 29.21 -30.48) (xy -1.27 -30.48)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 30.48 -5.08) (xy 29.21 -5.08)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 30.48 -8.89) (xy 29.21 -8.89)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 30.48 -12.7) (xy 29.21 -12.7)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 30.48 -16.51) (xy 29.21 -16.51)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 30.48 -20.32) (xy 29.21 -20.32)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 30.48 -24.13) (xy 29.21 -24.13)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 30.48 -27.94) (xy 29.21 -27.94)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -3.81 -5.08 0)
-					(length 2.54)
-					(name "GPIO26/ADC0/A0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -3.81 -8.89 0)
-					(length 2.54)
-					(name "GPIO27/ADC1/A1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -3.81 -12.7 0)
-					(length 2.54)
-					(name "GPIO28/ADC2/A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -3.81 -16.51 0)
-					(length 2.54)
-					(name "GPIO29/ADC3/A3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -3.81 -20.32 0)
-					(length 2.54)
-					(name "GPIO6/SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -3.81 -24.13 0)
-					(length 2.54)
-					(name "GPIO7/SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -3.81 -27.94 0)
-					(length 2.54)
-					(name "GPIO0/TX"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 31.75 -5.08 180)
-					(length 2.54)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 31.75 -8.89 180)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 31.75 -12.7 180)
-					(length 2.54)
-					(name "3V3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 31.75 -16.51 180)
-					(length 2.54)
-					(name "GPIO3/MOSI"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 31.75 -20.32 180)
-					(length 2.54)
-					(name "GPIO4/MISO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 31.75 -24.13 180)
-					(length 2.54)
-					(name "GPIO2/SCK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 31.75 -27.94 180)
-					(length 2.54)
-					(name "GPIO1/RX"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Seeed_Studio_XIAO_Series:XIAO-nRF52840-DIP"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -3.048 1.778 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "XIAO-nRF52840-DIP"
-				(at 3.048 -0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
-				(at 12.7 -30.734 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at -3.81 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at -3.81 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "XIAO-nRF52840-DIP_1_0"
-				(polyline
-					(pts
-						(xy -3.81 -1.27) (xy 39.37 -1.27)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -3.81) (xy -5.08 -3.81)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -3.81) (xy -3.81 -1.27)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -7.62) (xy -5.08 -7.62)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -7.62) (xy -3.81 -3.81)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -11.43) (xy -5.08 -11.43)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -11.43) (xy -3.81 -7.62)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -15.24) (xy -5.08 -15.24)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -15.24) (xy -3.81 -11.43)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -19.05) (xy -5.08 -19.05)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -22.86) (xy -5.08 -22.86)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -26.67) (xy -5.08 -26.67)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 -29.21) (xy -3.81 -15.24)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 39.37 -1.27) (xy 39.37 -3.81)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 39.37 -3.81) (xy 39.37 -7.62)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 39.37 -7.62) (xy 39.37 -11.43)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 39.37 -11.43) (xy 39.37 -29.21)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 39.37 -29.21) (xy -3.81 -29.21)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 40.64 -3.81) (xy 39.37 -3.81)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 40.64 -7.62) (xy 39.37 -7.62)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 40.64 -11.43) (xy 39.37 -11.43)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 40.64 -15.24) (xy 39.37 -15.24)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 40.64 -19.05) (xy 39.37 -19.05)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 40.64 -22.86) (xy 39.37 -22.86)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 40.64 -26.67) (xy 39.37 -26.67)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -6.35 -3.81 0)
-					(length 2.54)
-					(name "P0.02_AIN0_LOW_A0_D0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -6.35 -7.62 0)
-					(length 2.54)
-					(name "P0.03_AIN1_LOW_A1_D1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -6.35 -11.43 0)
-					(length 2.54)
-					(name "P0.28_AIN4_LOW_A2_D2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -6.35 -15.24 0)
-					(length 2.54)
-					(name "P0.29_AIN5_LOW_A3_D3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -6.35 -19.05 0)
-					(length 2.54)
-					(name "P0.04_AIN2_A4_D4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -6.35 -22.86 0)
-					(length 2.54)
-					(name "P0.05_AIN3_A5_D5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -6.35 -26.67 0)
-					(length 2.54)
-					(name "P1.11_TX_D6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 41.91 -3.81 180)
-					(length 2.54)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 41.91 -7.62 180)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 41.91 -11.43 180)
-					(length 2.54)
-					(name "3V3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 41.91 -15.24 180)
-					(length 2.54)
-					(name "P1.15_MOSI_D10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 41.91 -19.05 180)
-					(length 2.54)
-					(name "P1.14_MISO_D9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 41.91 -22.86 180)
-					(length 2.54)
-					(name "P1.13_SCK_D8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 41.91 -26.67 180)
-					(length 2.54)
-					(name "P1.12_RX_D7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Switch:SW_Push"
 			(pin_numbers
 				(hide yes)
@@ -2100,6 +894,131 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+3V3"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+3V3"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3V3\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+3V3_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3V3_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -2202,357 +1121,1429 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 102.87 104.14)
+		(end 140.97 147.32)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0265fa79-00a7-4143-ac68-5b78a29c325c)
+	)
+	(rectangle
+		(start 50.8 149.86)
+		(end 140.97 228.6)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 8b68e3b1-d5c9-467c-a084-0064762a6497)
+	)
+	(rectangle
+		(start 50.8 39.37)
+		(end 100.33 147.32)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 9c790bec-95e9-4f01-88a2-693f534a8bb2)
+	)
 	(junction
-		(at 91.44 90.17)
+		(at 90.17 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d936a98-2b9f-4ae4-b863-a28fb6ce8559")
+	)
+	(junction
+		(at 73.66 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24d4aad2-8312-4855-991d-3f983fb17238")
 	)
 	(junction
-		(at 54.61 119.38)
+		(at 123.19 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7c54a821-9645-4151-a9bb-c0c22d31c94d")
+		(uuid "579d848c-3d17-4772-a754-3dc250dd7582")
 	)
 	(junction
-		(at 130.81 111.76)
+		(at 90.17 218.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "97324256-b2ec-4525-b52f-23de72fd1d1c")
+		(uuid "62b4f81c-adf8-420a-8c6c-55c2832fdd45")
 	)
 	(junction
-		(at 107.95 90.17)
+		(at 106.68 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "662943f7-d949-4619-b4e4-ce5e5bc5ccc5")
+	)
+	(junction
+		(at 123.19 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87f2b920-8859-4a08-9ece-2eb18adc63eb")
+	)
+	(junction
+		(at 123.19 165.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91a4c68d-f543-4f02-89ee-9a6e10f77c92")
+	)
+	(junction
+		(at 57.15 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "920658a7-95c9-4696-8dd5-44024f8e731b")
+	)
+	(junction
+		(at 90.17 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9c3f6638-d18d-4e8d-a438-4b3f17a6e6d0")
 	)
 	(junction
-		(at 74.93 90.17)
+		(at 57.15 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2246d93-2209-421d-b087-0e367df73c61")
 	)
 	(junction
-		(at 148.59 115.57)
+		(at 57.15 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b561804f-90d7-4631-9f14-5447e7871919")
+		(uuid "adf251a5-1fc1-4946-af9f-1d88e1fa0d49")
 	)
 	(junction
-		(at 87.63 111.76)
+		(at 73.66 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e8a72853-f976-440d-94a1-d5c702e5d707")
+		(uuid "ae000a57-2ed4-4e79-8d32-deb6d2968570")
 	)
 	(junction
-		(at 71.12 115.57)
+		(at 73.66 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ef91045f-89aa-4281-b2fb-57abbc67dc7f")
+		(uuid "b4441bbb-1aab-4d5e-876d-940c0e82d0b0")
 	)
 	(junction
-		(at 166.37 119.38)
+		(at 123.19 218.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ffedc26f-bb26-4b68-ad84-492a1430c9bd")
+		(uuid "bbce7982-71bd-4411-b91b-9e6142697a62")
+	)
+	(junction
+		(at 90.17 200.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be1181c9-0c55-4fb9-8a8b-d6c7c6be922b")
+	)
+	(junction
+		(at 106.68 165.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3a1c1d5-5d9e-48ed-8e19-5a5a490fd14a")
+	)
+	(junction
+		(at 106.68 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f313c3e8-b807-4815-882d-dd6f4af60b36")
+	)
+	(junction
+		(at 106.68 200.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f68952de-7b8e-4108-b4d0-c79a7439fa43")
 	)
 	(wire
 		(pts
-			(xy 127 119.38) (xy 166.37 119.38)
+			(xy 69.85 114.3) (xy 69.85 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1db2c038-336a-4c20-9c9a-a6460b51dedb")
+		(uuid "17f80478-701f-4296-ae13-096d2ec54d85")
 	)
 	(wire
 		(pts
-			(xy 71.12 111.76) (xy 71.12 115.57)
+			(xy 69.85 123.19) (xy 69.85 125.73)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "24de8d5a-4c0e-4f58-9df9-3e0fc598e2a9")
+		(uuid "2141b483-e1cc-4da4-a41c-37b391a424bc")
 	)
 	(wire
 		(pts
-			(xy 127 115.57) (xy 148.59 115.57)
+			(xy 69.85 105.41) (xy 69.85 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ea0323a-ce0b-46a3-bca4-2315aa2ac018")
+		(uuid "43bdb9c7-5cb5-4497-a59e-0244dc5228d9")
 	)
 	(wire
 		(pts
-			(xy 130.81 107.95) (xy 130.81 111.76)
+			(xy 69.85 52.07) (xy 69.85 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4378390b-2f60-4970-a541-695682a6e17c")
+		(uuid "466dbb63-5671-44f7-8be1-791be66e9954")
 	)
 	(wire
 		(pts
-			(xy 130.81 111.76) (xy 127 111.76)
+			(xy 81.28 140.97) (xy 81.28 143.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6b2e1992-67cd-4c08-ba1f-923fecb555f9")
+		(uuid "4c07704b-def5-4687-bbd5-6d8b5dbe3e5d")
 	)
 	(wire
 		(pts
-			(xy 148.59 111.76) (xy 148.59 115.57)
+			(xy 81.28 96.52) (xy 81.28 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7bf2019a-42ae-4959-90af-c19b639540a4")
+		(uuid "4c933a42-4d73-4582-9397-b6dbc111d1b8")
 	)
 	(wire
 		(pts
-			(xy 166.37 115.57) (xy 166.37 119.38)
+			(xy 81.28 69.85) (xy 81.28 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "90ae1bce-df38-4ccc-a51d-80983f3610de")
+		(uuid "522425c8-e9c2-4ab1-ae1a-9d0ace459a0e")
 	)
 	(wire
 		(pts
-			(xy 87.63 107.95) (xy 87.63 111.76)
+			(xy 81.28 43.18) (xy 81.28 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9259c163-0f93-43a5-a67c-f52f041a87b8")
+		(uuid "561a3ba2-5516-46fb-a9ad-5ef5f615b1bc")
 	)
 	(wire
 		(pts
-			(xy 54.61 115.57) (xy 54.61 119.38)
+			(xy 81.28 132.08) (xy 81.28 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b61459a2-514e-4844-9f0e-69f9249eaea6")
+		(uuid "595fd902-612b-49ac-bd9a-0c75fb646890")
 	)
 	(wire
 		(pts
-			(xy 87.63 111.76) (xy 91.44 111.76)
+			(xy 69.85 78.74) (xy 69.85 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ba95d39c-1769-45ae-984c-e2f9ad0151ce")
+		(uuid "65bfa31f-f443-4f45-a005-67e09a4bf1a9")
 	)
 	(wire
 		(pts
-			(xy 71.12 115.57) (xy 91.44 115.57)
+			(xy 69.85 132.08) (xy 69.85 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c22d81df-2028-4674-97c2-f30ae51217c0")
+		(uuid "676f2896-e266-4876-bbbe-f016af657d9f")
 	)
 	(wire
 		(pts
-			(xy 54.61 119.38) (xy 91.44 119.38)
+			(xy 69.85 60.96) (xy 69.85 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e2110c99-ffe1-44f6-a604-a58eeeb1ead5")
+		(uuid "696e6f22-c1c7-44b6-a3e2-c0db19486c62")
 	)
-	(label "GPIO28"
-		(at 118.11 90.17 0)
+	(wire
+		(pts
+			(xy 81.28 52.07) (xy 81.28 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7992f1e9-0b06-4c6e-8ca2-faf103e55cbf")
+	)
+	(wire
+		(pts
+			(xy 81.28 78.74) (xy 81.28 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85d0a0c2-ef46-4a18-aa6d-e417f6ffa8cb")
+	)
+	(wire
+		(pts
+			(xy 69.85 43.18) (xy 69.85 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90d7d8cd-947c-4d04-9e68-95a392485bc4")
+	)
+	(wire
+		(pts
+			(xy 69.85 96.52) (xy 69.85 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "911e045d-01c3-4867-a920-f2590de21340")
+	)
+	(wire
+		(pts
+			(xy 81.28 123.19) (xy 81.28 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96b06c69-270d-42b5-9bf0-1540431e68d3")
+	)
+	(wire
+		(pts
+			(xy 81.28 60.96) (xy 81.28 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98b38c3c-0063-4ef5-8ce3-ea915022b316")
+	)
+	(wire
+		(pts
+			(xy 81.28 114.3) (xy 81.28 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1db8a7e-7577-437a-962f-f7e27e533b53")
+	)
+	(wire
+		(pts
+			(xy 81.28 87.63) (xy 81.28 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a22163b5-cf62-411c-815f-87590cb70044")
+	)
+	(wire
+		(pts
+			(xy 69.85 87.63) (xy 69.85 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9701827-3e9b-4299-af66-d23238454ed4")
+	)
+	(wire
+		(pts
+			(xy 69.85 140.97) (xy 69.85 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c497f431-7e38-49fa-8fde-efb99347b9e0")
+	)
+	(wire
+		(pts
+			(xy 81.28 105.41) (xy 81.28 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd50761c-b97b-40ac-9f7c-9d15acdaacb3")
+	)
+	(wire
+		(pts
+			(xy 69.85 69.85) (xy 69.85 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f57fc0f0-e2fb-4076-b37a-7ec8743b92c3")
+	)
+	(label "D4"
+		(at 133.35 165.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "0cb3d6e5-cab2-4964-9fc7-f0e2a1268431")
+		(uuid "0130f291-d54f-42c3-bbef-dded3ffb8461")
 	)
-	(label "GPIO27"
-		(at 63.5 115.57 180)
+	(label "19"
+		(at 137.16 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "063da009-c033-44d2-aff0-02688b3868bb")
+	)
+	(label "9"
+		(at 106.68 129.54 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "21bdbf30-d6e2-4a32-a436-f461e8a7ea02")
+		(uuid "0775f84e-4c98-4eba-b453-0952ef27b521")
 	)
-	(label "GPIO28"
-		(at 46.99 119.38 180)
+	(label "22"
+		(at 137.16 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "097b58af-6afd-4e65-8bb1-9f51ac36d00c")
+	)
+	(label "11"
+		(at 106.68 134.62 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "416b58df-0d17-44e2-97f7-7d9ae09b6a55")
+		(uuid "0e96b7a3-219b-48a8-95db-84a9b84367ed")
 	)
-	(label "GND"
-		(at 156.21 115.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "46f1eb6d-316b-4cdf-bf2d-52a00c553244")
-	)
-	(label "VBUS"
-		(at 80.01 107.95 180)
+	(label "2"
+		(at 106.68 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "59b674a0-268f-48a7-92e5-7328e04f9a90")
+		(uuid "0f055e46-2ff0-462d-9795-0c796c39cc78")
 	)
-	(label "GND"
-		(at 63.5 111.76 180)
+	(label "1"
+		(at 106.68 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "863e1d0a-17cd-4dc6-9b5e-7e0fae080861")
+		(uuid "145e6e81-b228-41a3-9a90-16b541befad0")
 	)
-	(label "3V3"
-		(at 173.99 119.38 0)
+	(label "6"
+		(at 69.85 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "86ea970f-2cf0-45ad-8c0c-cfeb196a3cb3")
+		(uuid "15ae978a-697e-444f-b01f-f50853bb3c7d")
 	)
-	(label "GPIO27"
-		(at 156.21 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ad44c148-1427-405c-b304-fcc13d1267d6")
-	)
-	(label "GPIO26"
-		(at 85.09 90.17 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "de997956-9073-4da1-bb6c-5e9f5648968a")
-	)
-	(label "VBUS"
-		(at 138.43 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e38b5098-7111-450e-9a2b-678c5030b7c8")
-	)
-	(label "GPIO26"
-		(at 80.01 111.76 180)
+	(label "8"
+		(at 106.68 127 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "e61adab0-7404-4550-ad8e-2f2b11eaaad5")
+		(uuid "16608fd1-2e62-43d7-b5fd-7c9ac4623b82")
 	)
-	(label "3V3"
-		(at 46.99 115.57 180)
+	(label "21"
+		(at 81.28 72.39 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "f34e0c6d-1378-4d2f-a73b-7d7fb3b50ae1")
+		(uuid "16e38813-a269-45c0-ac97-769f80b4c947")
 	)
-	(label "GPIO27"
-		(at 101.6 90.17 0)
+	(label "RST"
+		(at 88.9 63.5 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "f53fa856-dfbb-4f1f-9462-5556561cb6ea")
+		(uuid "1743f083-220e-43b2-8207-e4c6543a8676")
 	)
-	(label "GPIO26"
-		(at 138.43 107.95 0)
+	(label "D18"
+		(at 62.23 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1a783cbe-7f2d-4c8b-88c9-3331b4c6c6b1")
+	)
+	(label "B+"
+		(at 62.23 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1d2da121-bcb4-46fc-9fe7-60ba4d6753f3")
+	)
+	(label "16"
+		(at 137.16 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "fa1ef645-0fcf-446d-bdec-abd6bf5c9415")
+		(uuid "1daa3073-405b-44ab-8108-6d79a33bfa9d")
 	)
-	(label "GPIO28"
-		(at 173.99 115.57 0)
+	(label "23"
+		(at 137.16 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "fe647f88-a961-4f3f-80eb-671899c089b9")
+		(uuid "22cf7e43-7dc6-4b12-98b9-4824e51c3e4c")
+	)
+	(label "20"
+		(at 137.16 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "284530ec-9bba-4ab1-a11c-3d07d0baa83e")
+	)
+	(label "26"
+		(at 120.65 132.08 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "284d5b01-6765-44bb-8983-725a99002c56")
+	)
+	(label "D6"
+		(at 83.82 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "28c9ae40-b957-4110-98a5-36935927f849")
+	)
+	(label "15"
+		(at 81.28 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2a143620-2d7a-4a5a-8cbd-dcea58b100cb")
+	)
+	(label "4"
+		(at 69.85 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2cea03c6-06de-4d0b-b5b6-22b04aea3cdb")
+	)
+	(label "25"
+		(at 118.11 132.08 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d873ff1-0442-4e98-87e7-fdfcd0268c1d")
+	)
+	(label "D21"
+		(at 88.9 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "30f547a4-d1e4-4e3a-b385-75095bc255f6")
+	)
+	(label "D0"
+		(at 83.82 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "33d1a983-aba1-4aae-b2a2-e0272a4c44e9")
+	)
+	(label "D4"
+		(at 62.23 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3862a837-b0ac-4ee2-b85c-58cca1dc9493")
+	)
+	(label "D16"
+		(at 88.9 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "38b5b695-3a7b-485c-89cc-edfe10378cc3")
+	)
+	(label "D15"
+		(at 62.23 114.3 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3b9f9684-242e-4b28-8468-034bad1d8d79")
+	)
+	(label "13"
+		(at 137.16 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3ef52ceb-9ead-4f8b-8bb0-0017c68df4f6")
+	)
+	(label "D0"
+		(at 88.9 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "420dae31-90b5-40a0-9fcf-92cc10bd277e")
+	)
+	(label "2"
+		(at 69.85 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "42ad94b9-7d19-496d-877d-fabd498b0048")
+	)
+	(label "17"
+		(at 137.16 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4a7d1584-7ecc-4d71-b942-d2d608e6d260")
+	)
+	(label "12"
+		(at 106.68 137.16 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4c40b76f-cac6-43d9-85dd-40d17bdb2965")
+	)
+	(label "9"
+		(at 69.85 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4f85362a-7c05-48ac-bd2e-e915d4b9847c")
+	)
+	(label "D1"
+		(at 67.31 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4fd370c8-5b4b-475d-a6a8-95d7f796c2b5")
+	)
+	(label "D3"
+		(at 116.84 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "504a87f0-9be8-4382-8838-619f87ffed7b")
+	)
+	(label "15"
+		(at 137.16 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50df8584-896b-4eaa-8281-7395af141982")
+	)
+	(label "D9"
+		(at 133.35 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50e25522-ba71-4255-87df-3ec9a3c878c5")
+	)
+	(label "17"
+		(at 81.28 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "50e29200-f1c3-4cf8-9cab-df47b3f2d581")
+	)
+	(label "24"
+		(at 81.28 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "52f47d46-bc46-4d9b-aeef-bf81cc99a8de")
+	)
+	(label "10"
+		(at 69.85 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5436fe45-7f86-4911-8cf8-f08197b8f621")
+	)
+	(label "D21"
+		(at 62.23 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5528d31e-7f50-49b8-9732-89d0c531ec2f")
+	)
+	(label "16"
+		(at 81.28 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5b9dfc89-2467-49b8-8da9-105d6e322e10")
+	)
+	(label "D2"
+		(at 100.33 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "624fd891-f617-4a5f-82b0-9c519a545706")
+	)
+	(label "RST"
+		(at 62.23 60.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "64867fdf-f932-476f-9623-aa1adadb3685")
+	)
+	(label "D16"
+		(at 62.23 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6d026a00-1ba9-4cc4-b48e-08d6094be483")
+	)
+	(label "D19"
+		(at 62.23 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6ed6127f-9a19-4ab7-a02e-dcf36b7a93fa")
+	)
+	(label "7"
+		(at 106.68 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "71192145-4b2d-45e2-9280-4ccb699d5288")
+	)
+	(label "D5"
+		(at 62.23 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "748cce19-1383-404f-b26f-ba1d3c644673")
+	)
+	(label "D8"
+		(at 62.23 134.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "76524f6c-5e0b-41b3-9da3-7806d932b772")
+	)
+	(label "3"
+		(at 106.68 114.3 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "77793e37-61c3-4f43-8ecf-98095960844b")
+	)
+	(label "D5"
+		(at 67.31 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "77afd850-8d5f-4768-a9c8-bd7ad6c9aada")
+	)
+	(label "D1"
+		(at 88.9 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7b874de2-b7a3-4944-b112-464039e0ee87")
+	)
+	(label "20"
+		(at 81.28 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7beb754d-371b-41d7-9d1f-ad038a0d70fd")
+	)
+	(label "D6"
+		(at 62.23 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7d29f220-f292-4ff4-a3e3-f9bab1401942")
+	)
+	(label "18"
+		(at 81.28 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "83b5ea3d-ccaa-4c4b-b57d-d55d4d538e0d")
+	)
+	(label "D19"
+		(at 88.9 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8a55a265-2082-4f6a-8ed6-9231c4279610")
+	)
+	(label "12"
+		(at 69.85 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8f2f661a-7682-4ca8-a679-0051b4b68c8d")
+	)
+	(label "8"
+		(at 69.85 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "921c5cb2-5afa-4001-ac90-0aafb4e9d80a")
+	)
+	(label "D1"
+		(at 62.23 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "93701c53-0fb7-456d-b52b-2a388f79ab93")
+	)
+	(label "D7"
+		(at 62.23 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "93a2bc0e-86f6-4f5d-b0c1-3164e5cb23fd")
+	)
+	(label "D8"
+		(at 88.9 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "94b26693-ecc9-47d6-ae8e-28216f773584")
+	)
+	(label "D5"
+		(at 88.9 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "96f6a2d8-17db-4e6e-bc60-6963d7517f80")
+	)
+	(label "6"
+		(at 106.68 121.92 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "975d2a11-4fba-4e1f-ae0d-25b4bc7654b4")
+	)
+	(label "D3"
+		(at 88.9 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "97b9675b-d451-4376-8c7e-52dd846130bf")
+	)
+	(label "19"
+		(at 81.28 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9cd95f91-cb21-49ff-8749-078cc38791ef")
+	)
+	(label "D14"
+		(at 62.23 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9e244a8c-2a9c-46ae-bbe7-ca5c04863393")
+	)
+	(label "D9"
+		(at 88.9 140.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9f2ae517-dfdf-4738-8ede-37e8ad9c93b2")
+	)
+	(label "22"
+		(at 81.28 63.5 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a1b40da2-f5f2-4b57-a5ba-ed3f85216e24")
+	)
+	(label "B+"
+		(at 88.9 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a37234ed-13aa-4fcc-8ecb-e9ca49b452ff")
+	)
+	(label "D7"
+		(at 100.33 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a6bb4803-157e-416a-add1-a07c5c7437ed")
+	)
+	(label "7"
+		(at 69.85 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a8b20617-9374-4525-8a94-2c71132124ef")
+	)
+	(label "D7"
+		(at 88.9 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a8c528d8-e7d2-419c-ba3a-ffeac0b50f19")
+	)
+	(label "27"
+		(at 123.19 132.08 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "abc950a2-fdbd-4e64-9c4f-65771c5eca4d")
+	)
+	(label "3"
+		(at 69.85 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ae53d719-8ded-428f-a007-a2439d036040")
+	)
+	(label "D10"
+		(at 88.9 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b5ce6baa-cf8d-4998-b98f-fe6ac65b654f")
+	)
+	(label "1"
+		(at 69.85 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bd8688ab-9c29-4517-ba27-4a8278550ac7")
+	)
+	(label "5"
+		(at 69.85 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c46e2d58-7475-4b3f-be00-dd1c2a6551eb")
+	)
+	(label "D0"
+		(at 62.23 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c5a76db6-82c6-4aef-9b6f-674132a60c66")
+	)
+	(label "D9"
+		(at 62.23 143.51 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cef671eb-963f-4406-8232-c7e63fc9ec12")
+	)
+	(label "5"
+		(at 106.68 119.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d5735cc2-2116-47eb-9449-7c055fb36ad1")
+	)
+	(label "D10"
+		(at 62.23 140.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d59a8bc8-ec5d-4331-869a-9200ef90b284")
+	)
+	(label "24"
+		(at 137.16 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da58dd32-84c5-4d38-b81c-e00112830284")
+	)
+	(label "D8"
+		(at 116.84 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dd0f549f-14d9-4a59-8fb9-d2d92944aa3e")
+	)
+	(label "13"
+		(at 81.28 143.51 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "dd252efd-bc0a-4e85-84c8-01ac5c76159f")
+	)
+	(label "D2"
+		(at 88.9 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dd8f6f90-00d3-4371-92cf-128c70b8ecbf")
+	)
+	(label "D20"
+		(at 88.9 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e2eb8392-515c-48b6-a349-b38a21c2c707")
+	)
+	(label "D3"
+		(at 62.23 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e3479fc1-aa58-47de-9331-b561b4218fa1")
+	)
+	(label "D4"
+		(at 88.9 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e41159e8-0ad9-4d66-a2e6-37dc6253508e")
+	)
+	(label "10"
+		(at 106.68 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ed1c9e70-af67-4f74-aca5-8d44d5e442a3")
+	)
+	(label "14"
+		(at 137.16 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "eeae5e21-eb70-4fc0-858d-92b1c4ac1ab0")
+	)
+	(label "11"
+		(at 69.85 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ef53ba54-15be-4d42-b245-ae9996e28cb8")
+	)
+	(label "D20"
+		(at 62.23 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ef88b1fe-3083-4599-b01f-5113f35f84ba")
+	)
+	(label "D18"
+		(at 88.9 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0fc3ad9-365b-451f-bc4b-278186f2392f")
+	)
+	(label "14"
+		(at 81.28 134.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f2a2f0dd-dbe7-42b0-8bae-51e5be478223")
+	)
+	(label "18"
+		(at 137.16 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f393aa02-ae90-4b48-9629-cfa4381df7d7")
+	)
+	(label "D14"
+		(at 88.9 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f4b2e66c-51c6-4032-860c-5e5cd5bf643c")
+	)
+	(label "4"
+		(at 106.68 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f6459d4d-0964-475b-8546-607ef9479b2b")
+	)
+	(label "23"
+		(at 81.28 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fac74cde-9e32-41bd-a9c5-2c3c0e249d09")
+	)
+	(label "D15"
+		(at 88.9 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fb3cb95a-9f40-4f0f-9640-beab56ee6df5")
+	)
+	(label "D2"
+		(at 62.23 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fd88262a-2c2f-4fe4-8bbf-c2a457d4f85f")
+	)
+	(label "21"
+		(at 137.16 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fda21194-e6a2-47ea-8db4-55e4603ebe72")
+	)
+	(label "D6"
+		(at 88.9 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fe51e7b2-e1f9-4a02-a85c-e78c0030d692")
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 96.52 90.17 0)
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 140.97 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "17f7ff44-4391-4fbf-bd95-2e813c1deabb")
-		(property "Reference" "SW2-2"
-			(at 96.52 80.772 0)
+		(uuid "001f5a2e-c049-4be9-8653-19e6330d2830")
+		(property "Reference" "JP47"
+			(at 84.836 138.684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Value" "SW_Push"
-			(at 96.52 85.09 0)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
-			(at 96.52 85.09 0)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2561,7 +2552,483 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 85.09 0)
+			(at 85.09 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2ab94e80-afd6-4dd8-87a1-b5c70218a600")
+		)
+		(pin "1"
+			(uuid "b09edca0-985b-46bf-88e4-57c2dabe505f")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "009606df-5bb2-4f57-a70c-2c731ab4c1af")
+		(property "Reference" "JP36"
+			(at 62.992 148.082 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ebffac99-a0f2-4795-afb8-b6514d5bdd7f")
+		)
+		(pin "1"
+			(uuid "9ba54645-ff85-4f38-bd5e-028f4acf36d8")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "009bd7c7-83de-420b-ad47-33d064584471")
+		(property "Reference" "JP26"
+			(at 62.992 76.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c41d08e0-337e-44e7-8d97-3ecd32db271d")
+		)
+		(pin "1"
+			(uuid "7f790773-eccf-40ad-8769-edf6d7619e4b")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 73.66 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "01c0fad7-0b62-4ee0-ad69-6bd7d21bd80f")
+		(property "Reference" "#PWR04"
+			(at 73.66 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 73.66 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "46b554e4-6f52-40ad-863a-2321336f62b3")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 90.17 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "02809b1a-8d91-459d-883f-1da1ef444b28")
+		(property "Reference" "JP8"
+			(at 85.09 83.058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8ac33c63-81ac-4708-a72a-88f197e5d859")
+		)
+		(pin "1"
+			(uuid "bb8a32d5-30b7-422d-a729-1fb804d3e6e3")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 88.9 72.39 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0556455d-d768-472c-bf5b-ff8faafe9bc7")
+		(property "Reference" "#PWR026"
+			(at 85.09 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 92.71 72.3899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 88.9 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a1d0f532-5b36-447d-b3cf-93395b50425b")
+		)
+		(instances
+			(project ""
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 107.95 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "05c40b4a-d80a-45a1-9eef-c5fc92497aea")
+		(property "Reference" "JP40"
+			(at 85.09 100.838 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "788c9abf-84ef-4ad4-9428-1ae581595060")
+		)
+		(pin "1"
+			(uuid "4832f995-a299-4e57-9209-5e40f81d7f60")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 128.27 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "08eefd81-8ac8-4aaf-8fee-b7b89b2933f3")
+		(property "Reference" "SW18"
+			(at 128.27 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 128.27 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 128.27 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2570,7 +3037,957 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 96.52 90.17 0)
+			(at 128.27 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "00965cdb-e8af-4173-923d-7991245640bd")
+		)
+		(pin "1"
+			(uuid "23957d8c-75e0-4d3e-b408-3047986adc04")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 62.23 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "09751539-4654-490e-ad35-0763a0a8fc80")
+		(property "Reference" "SW6"
+			(at 62.23 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 62.23 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f9adfaac-fa31-46f0-944d-99eccd04defc")
+		)
+		(pin "1"
+			(uuid "f3f31358-202f-4b31-bb6c-d5998acf44bd")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0bcb2fac-f6be-47b3-a56c-d05d1c577818")
+		(property "Reference" "JP11"
+			(at 66.04 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f42328e8-3d01-460f-ad88-bbafc9e07d25")
+		)
+		(pin "1"
+			(uuid "47c09bd0-85ca-47c9-905a-7db25bca93d5")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 123.19 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0bd878ee-69fe-4148-ad98-c88592514c7f")
+		(property "Reference" "#PWR012"
+			(at 123.19 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.19 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 123.19 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "837a77f1-1a1f-496a-8ea6-3341fcf5acc4")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 95.25 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0e419319-b786-4221-b4c2-d4e66736c763")
+		(property "Reference" "SW16-2"
+			(at 95.25 208.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 95.25 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 95.25 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 95.25 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 95.25 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d2b56a9d-2160-4cce-b263-5459ea0d7627")
+		)
+		(pin "1"
+			(uuid "b56c8b49-9725-43b6-b796-66461c952df3")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW16-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "0f48e650-1860-4d2a-a2f0-73eaf2d88b1d")
+		(property "Reference" "JP4"
+			(at 62.992 94.742 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5ca834c4-0379-4a55-818b-e2b9fcd20b09")
+		)
+		(pin "1"
+			(uuid "224d12a9-1f7c-4003-a100-1c5e1b9e7dbf")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "109f53e8-51c0-4d4a-bab6-1fe5a29406e1")
+		(property "Reference" "JP10"
+			(at 62.992 103.632 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d1b84116-4a7a-473b-865b-5fbb6a562bfc")
+		)
+		(pin "1"
+			(uuid "ba460864-08ba-4f64-8d13-1661103159f2")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 88.9 54.61 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "11d0bed0-e48d-4d84-a163-e2c999480085")
+		(property "Reference" "#PWR019"
+			(at 95.25 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 92.71 54.6099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 88.9 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b8331896-1b3f-4404-9441-7ac610afabb1")
+		)
+		(instances
+			(project ""
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 111.76 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1225d452-384f-4b61-acf9-59132d303a74")
+		(property "Reference" "SW14"
+			(at 111.76 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 111.76 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 111.76 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 111.76 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1602a4e8-8561-43ef-ae9b-c497158d9911")
+		)
+		(pin "1"
+			(uuid "ec0ae0e9-ba93-4b85-9080-17d6db4a8df9")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1247d94e-8697-4162-a323-0ef694bfe78c")
+		(property "Reference" "JP33"
+			(at 66.04 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3cf40ea0-4791-4994-9697-d53e6a4ca013")
+		)
+		(pin "1"
+			(uuid "9151e7a9-3250-4929-8af9-deb01daa1852")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 63.5 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "12fe8f1b-5eb5-4e63-a439-6baa3e2e5d0a")
+		(property "Reference" "JP24"
+			(at 85.09 56.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a15d11d2-2b58-47ca-91e5-2812c49990df")
+		)
+		(pin "1"
+			(uuid "9c259abb-40fd-46a2-85e0-b6be95beaaae")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "13996714-d1eb-45a6-86e1-8ddc078c7248")
+		(property "Reference" "JP22"
+			(at 62.992 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fe473da1-b815-4863-9968-b94ec73a1ec3")
+		)
+		(pin "1"
+			(uuid "066137ca-c07a-49bd-bc50-8fa299e91a61")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 128.27 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "142730f6-1351-4fb8-baff-f96b67965317")
+		(property "Reference" "SW15-2"
+			(at 128.27 191.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 128.27 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 128.27 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d8909fc8-b046-41ee-b486-387a331d6f03")
+		)
+		(pin "1"
+			(uuid "706e7eb2-8fc4-4dbe-b886-b546ba93500a")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW15-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 106.68 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "171d654e-fdc1-4bb1-a6e4-4f3d13175c28")
+		(property "Reference" "#PWR01"
+			(at 106.68 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "769e5233-f4e7-473c-a915-d1242b1e62d6")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 78.74 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "17f7ff44-4391-4fbf-bd95-2e813c1deabb")
+		(property "Reference" "SW2-2"
+			(at 78.74 155.448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 78.74 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 78.74 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.74 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 78.74 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2595,15 +4012,16 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 134.62 107.95 180)
+		(at 66.04 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "18599fe3-031f-40ee-92f3-74ab310ee9d5")
-		(property "Reference" "JP3"
-			(at 134.366 105.664 0)
+		(fields_autoplaced yes)
+		(uuid "185dc423-0c05-4cd9-af74-1c35cfc147b1")
+		(property "Reference" "JP35"
+			(at 66.04 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2612,7 +4030,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 134.62 111.76 0)
+			(at 66.04 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2621,7 +4039,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 134.62 107.95 0)
+			(at 66.04 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2630,7 +4048,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 107.95 0)
+			(at 66.04 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2639,7 +4057,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 134.62 107.95 0)
+			(at 66.04 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2648,15 +4066,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "3c1a8c27-1fbf-4486-a3d6-ae26e8d8ff76")
+			(uuid "9a707be9-47ad-43cb-a08d-23e6b503671e")
 		)
 		(pin "1"
-			(uuid "be396b55-432f-413d-9c53-8f29e6f91bb9")
+			(uuid "f3624535-06f5-4e5d-9723-39e978d10962")
 		)
 		(instances
 			(project "40%ish V2"
 				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP3")
+					(reference "JP35")
 					(unit 1)
 				)
 			)
@@ -2664,15 +4082,16 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 170.18 115.57 180)
+		(at 66.04 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "18b245cf-775a-45d9-876b-221917aeecbc")
-		(property "Reference" "JP11"
-			(at 169.926 113.284 0)
+		(fields_autoplaced yes)
+		(uuid "187a6989-51c4-4bb3-bda7-93aed4b877c0")
+		(property "Reference" "JP31"
+			(at 66.04 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2681,7 +4100,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 170.18 119.38 0)
+			(at 66.04 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2690,7 +4109,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 170.18 115.57 0)
+			(at 66.04 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2699,7 +4118,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 115.57 0)
+			(at 66.04 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2708,7 +4127,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 170.18 115.57 0)
+			(at 66.04 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2717,15 +4136,82 @@
 			)
 		)
 		(pin "2"
-			(uuid "f8f83e83-bc80-438b-b989-23d743bd4177")
+			(uuid "7341ad97-0945-4db2-ac98-963edbaeb44a")
 		)
 		(pin "1"
-			(uuid "1589e020-fc92-4ec8-a316-1bf499c08566")
+			(uuid "47389fab-1678-49e4-adc6-b75824af75f1")
 		)
 		(instances
 			(project "40%ish V2"
 				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP11")
+					(reference "JP31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 62.23 69.85 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e782d73-47d5-402f-b419-5ce8a015a0af")
+		(property "Reference" "#PWR025"
+			(at 66.04 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 58.42 69.8499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 62.23 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e832e41-4e5f-40c1-aeed-f3ee651ac9d9")
+		)
+		(instances
+			(project ""
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -2733,7 +4219,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 113.03 90.17 0)
+		(at 95.25 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2741,7 +4227,7 @@
 		(dnp no)
 		(uuid "1e852b0b-12d5-4fdf-b4c4-30d043d882fa")
 		(property "Reference" "SW3"
-			(at 113.03 82.55 0)
+			(at 95.25 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2749,7 +4235,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 113.03 85.09 0)
+			(at 95.25 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2757,7 +4243,7 @@
 			)
 		)
 		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
-			(at 113.03 85.09 0)
+			(at 95.25 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2766,7 +4252,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.03 85.09 0)
+			(at 95.25 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2775,7 +4261,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 113.03 90.17 0)
+			(at 95.25 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2800,15 +4286,16 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 152.4 111.76 180)
+		(at 66.04 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "25557905-ac9f-416a-8d8c-f1d9f5e4af22")
-		(property "Reference" "JP7"
-			(at 152.146 109.474 0)
+		(fields_autoplaced yes)
+		(uuid "1f81e6c6-7c1a-4870-bdc8-56bc30c5fde8")
+		(property "Reference" "JP29"
+			(at 66.04 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2817,7 +4304,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 152.4 115.57 0)
+			(at 66.04 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2826,7 +4313,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 152.4 111.76 0)
+			(at 66.04 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2835,7 +4322,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 111.76 0)
+			(at 66.04 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2844,7 +4331,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 152.4 111.76 0)
+			(at 66.04 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2853,47 +4340,116 @@
 			)
 		)
 		(pin "2"
-			(uuid "facdb040-d230-410c-bb0a-0f92f63edca3")
+			(uuid "39ab1411-d102-40b8-8f8c-3cf9de31443d")
 		)
 		(pin "1"
-			(uuid "b0fc0d36-4e12-4392-b7d4-b383aae02fd6")
+			(uuid "e534383d-3ce4-45ea-b340-c74c6b154590")
 		)
 		(instances
 			(project "40%ish V2"
 				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP7")
+					(reference "JP29")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 113.03 90.17 0)
+		(lib_id "power:GND")
+		(at 62.23 72.39 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "480d6859-0c64-4e90-b78e-22f840ba80a1")
-		(property "Reference" "SW3-2"
-			(at 113.03 80.772 0)
+		(fields_autoplaced yes)
+		(uuid "215affc5-0e69-4372-b6e8-7d81ad664835")
+		(property "Reference" "#PWR023"
+			(at 55.88 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Value" "SW_Push"
-			(at 113.03 85.09 0)
+		(property "Value" "GND"
+			(at 58.42 72.3899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
-			(at 113.03 85.09 0)
+		(property "Footprint" ""
+			(at 62.23 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 62.23 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1700891e-489c-46ff-91dc-2fe9c15384fc")
+		)
+		(instances
+			(project ""
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 60.96 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "22710561-5e95-4406-b918-69f8b71c60aa")
+		(property "Reference" "JP23"
+			(at 84.836 58.674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2902,7 +4458,74 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.03 85.09 0)
+			(at 85.09 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6e5a6504-02ce-4cf9-9c3c-86184bf481bc")
+		)
+		(pin "1"
+			(uuid "e9ce3b6a-b74e-4d9e-966a-02ba22b8f931")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 95.25 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "22b49179-f04e-4b57-8224-8651916b11ad")
+		(property "Reference" "SW8-2"
+			(at 95.25 173.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 95.25 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 95.25 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 95.25 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2911,7 +4534,819 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 113.03 90.17 0)
+			(at 95.25 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b3dd02e1-37d3-45fd-ab39-9e0e6238d0b5")
+		)
+		(pin "1"
+			(uuid "f6ef9ad7-26d1-48fa-a463-31f28eaf7fc3")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW8-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 111.76 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "25e038a4-181f-49ff-817a-ce19904f4022")
+		(property "Reference" "SW4"
+			(at 111.76 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 111.76 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 111.76 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 111.76 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cf97f8fc-141b-49bf-af77-94fb3a62abe2")
+		)
+		(pin "1"
+			(uuid "b9bbf293-ff97-44b1-9c72-6dea6e878b9d")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 95.25 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "27819b81-e05d-4df6-830f-ceb9ea358f4c")
+		(property "Reference" "SW13"
+			(at 95.25 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 95.25 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 95.25 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 95.25 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 95.25 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "28f49c85-5a5d-4723-912d-34119e7ee694")
+		)
+		(pin "1"
+			(uuid "e725da6d-1e83-4ac6-a0fa-e532080f1426")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 62.23 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "27de11fa-2a07-4ed1-8a5f-326fd0ba0c12")
+		(property "Reference" "SW11-2"
+			(at 62.23 191.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 62.23 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 62.23 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 62.23 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cabf0a39-e2d2-4498-94e0-ba8bfd4e1eca")
+		)
+		(pin "1"
+			(uuid "1e6b1abd-d2cd-4bf6-a8b3-90854489a761")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW11-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 78.74 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28c552de-fa45-4248-b4a7-1d45087921e3")
+		(property "Reference" "SW12"
+			(at 78.74 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 78.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 78.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 78.74 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "94b3887a-24ca-4223-a7e0-919290f5a980")
+		)
+		(pin "1"
+			(uuid "43154072-0b70-4120-aab6-42719f790328")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 106.68 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "29fff7e0-ba89-46d6-8a23-fe97f941f00a")
+		(property "Reference" "#PWR06"
+			(at 106.68 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c0a6214a-9032-4b8d-9d87-1f51656c8e41")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 62.23 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2c54dc9c-c280-4935-b8a8-fed697e45457")
+		(property "Reference" "SW11"
+			(at 62.23 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 62.23 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 62.23 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 62.23 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0c9b9aa2-7631-4a94-b15e-7c5f3fc3fb7c")
+		)
+		(pin "1"
+			(uuid "0ea156d3-34bf-4e67-844b-8d132b288bb0")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "2e8bb6ce-baf5-4492-b4db-ccf64bb14c49")
+		(property "Reference" "JP12"
+			(at 62.992 112.522 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c2026aac-f2e8-4fa8-9c2a-5d724f59efca")
+		)
+		(pin "1"
+			(uuid "7dd5e508-7975-4b4e-8faf-dbd56e3efd7f")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "2f98ccbe-3ff6-4015-90f2-c404854e2b86")
+		(property "Reference" "JP2"
+			(at 62.992 85.852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "dc4366fa-26ed-4536-9ebb-12cc4e544852")
+		)
+		(pin "1"
+			(uuid "5ef6159b-d97a-4ba2-8590-44edbf5efdce")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "3860d8de-5a1c-4551-89fd-512fe958e438")
+		(property "Reference" "JP34"
+			(at 62.992 139.192 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c71a37e8-092a-4276-b4ec-6ee833bdc38a")
+		)
+		(pin "1"
+			(uuid "86279fa4-af10-40a7-a93b-8b66aecf1099")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 54.61 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "39aec504-9c59-42d8-a1e1-6530647e1013")
+		(property "Reference" "JP20"
+			(at 85.09 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "da7a7837-3d20-491a-b7be-8ccfe66aa944")
+		)
+		(pin "1"
+			(uuid "4f00014b-a247-46f5-a0d0-51785757a8c5")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 95.25 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "480ca7ad-e02a-4f00-9dbe-49710ee1c193")
+		(property "Reference" "SW8"
+			(at 95.25 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 95.25 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 95.25 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 95.25 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 95.25 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b01e8a19-c7bd-452d-9152-41ccd6ec1a09")
+		)
+		(pin "1"
+			(uuid "f1a31138-4ab6-4449-b588-a73e2360fb52")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 95.25 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "480d6859-0c64-4e90-b78e-22f840ba80a1")
+		(property "Reference" "SW3-2"
+			(at 95.25 155.702 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 95.25 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 95.25 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 95.25 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 95.25 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2936,15 +5371,15 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 170.18 119.38 180)
+		(at 85.09 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "508afefc-d18c-4c64-9f16-e154b9dae51d")
-		(property "Reference" "JP12"
-			(at 170.18 112.268 0)
+		(uuid "4c19db0d-8b66-4721-8854-4240de591213")
+		(property "Reference" "JP28"
+			(at 85.09 65.278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2953,7 +5388,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 170.18 123.19 0)
+			(at 85.09 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2962,7 +5397,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 170.18 119.38 0)
+			(at 85.09 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2971,7 +5406,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 119.38 0)
+			(at 85.09 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2980,7 +5415,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 170.18 119.38 0)
+			(at 85.09 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2989,15 +5424,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "d75a43d2-52ec-4767-a68f-1b7e4ebf0a82")
+			(uuid "ee8c1f0c-435b-49fe-9cec-2bcc83ae8015")
 		)
 		(pin "1"
-			(uuid "9b37e13b-9f19-4585-8be8-128d20d36f9b")
+			(uuid "d4e57853-1230-40ec-8929-efb9b2b9c894")
 		)
 		(instances
 			(project "40%ish V2"
 				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP12")
+					(reference "JP28")
 					(unit 1)
 				)
 			)
@@ -3005,15 +5440,15 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 80.01 90.17 0)
+		(at 95.25 200.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "58144d45-90bf-4236-bfa0-3fb17dbbd683")
-		(property "Reference" "SW1-2"
-			(at 80.01 81.026 0)
+		(uuid "513c34c1-afdd-46bb-b944-e121e92d1799")
+		(property "Reference" "SW13-2"
+			(at 95.25 191.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3021,7 +5456,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 80.01 85.09 0)
+			(at 95.25 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3029,7 +5464,7 @@
 			)
 		)
 		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
-			(at 80.01 85.09 0)
+			(at 95.25 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3038,7 +5473,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 80.01 85.09 0)
+			(at 95.25 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3047,7 +5482,489 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 80.01 90.17 0)
+			(at 95.25 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "aaeca983-fb43-4e60-9062-16a0da3b3992")
+		)
+		(pin "1"
+			(uuid "a7111b72-9556-4272-96af-2531a31e96c8")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW13-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:MCU_Nice_Nano_V2")
+		(at 121.92 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51849f93-8cb7-4e46-920b-0393b8a9b242")
+		(property "Reference" "U1"
+			(at 121.92 142.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "Nice_Nano_V2"
+			(at 121.92 144.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_MCU:Nice_Nano_V2"
+			(at 121.92 146.05 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 186.69 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 121.92 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "17"
+			(uuid "df0318c3-44d2-4d3c-9315-b0eb81c4f20b")
+		)
+		(pin "19"
+			(uuid "fbb10314-2489-489f-8ab7-1afc83b4473b")
+		)
+		(pin "20"
+			(uuid "01ea4fe5-da27-411a-81b7-d3838a2f7e74")
+		)
+		(pin "18"
+			(uuid "3da94a21-7570-40b9-aa90-4009ef45d8cb")
+		)
+		(pin "27"
+			(uuid "eba979e4-1607-4ec3-bdb2-fc910180117c")
+		)
+		(pin "16"
+			(uuid "26387793-f4d4-4a24-aebb-43fb000c605f")
+		)
+		(pin "14"
+			(uuid "94ad36d6-4280-43b3-a40c-c505b75e42d9")
+		)
+		(pin "15"
+			(uuid "ce63050e-6c37-4f1d-88ee-335023a2af0a")
+		)
+		(pin "2"
+			(uuid "859186a1-b062-4af2-be6d-978d416ca97e")
+		)
+		(pin "1"
+			(uuid "702f6ba8-d725-4771-aec1-cd2f14eac5b0")
+		)
+		(pin "3"
+			(uuid "b0db1100-2519-405e-9bfc-f2ef462f4dc5")
+		)
+		(pin "6"
+			(uuid "754ca0de-d277-4ef5-a6a8-e0d0a6e2b74e")
+		)
+		(pin "5"
+			(uuid "332edbdf-ec56-4dd8-9fc5-c9e3377167da")
+		)
+		(pin "4"
+			(uuid "c64743a7-d8c7-49be-99b8-13d9f2d13966")
+		)
+		(pin "26"
+			(uuid "f59d5136-f842-4450-92b6-320fa4a28c99")
+		)
+		(pin "24"
+			(uuid "a20bded6-6161-45dd-8c88-66da13bf323a")
+		)
+		(pin "22"
+			(uuid "91480275-7708-48e3-91f4-d501ede17c27")
+		)
+		(pin "12"
+			(uuid "bab24acb-86fe-4a9e-8953-41d6b94d0bba")
+		)
+		(pin "10"
+			(uuid "13c0a73f-6553-46e0-9cd4-a48a48f86737")
+		)
+		(pin "9"
+			(uuid "a73c23b9-afb9-40fc-b3a3-30d539919756")
+		)
+		(pin "13"
+			(uuid "80b6961c-d8c8-4cb9-8da6-8fa7d21a7869")
+		)
+		(pin "23"
+			(uuid "6d91cbb3-8107-41c8-a3b9-9dd5e725b12e")
+		)
+		(pin "7"
+			(uuid "8907fe3e-33ef-42a5-9528-9257c54daf0b")
+		)
+		(pin "21"
+			(uuid "b2decf0c-43cd-4051-abda-332dffcb2be8")
+		)
+		(pin "8"
+			(uuid "0519fa5f-fa0e-443f-800d-8b71fe55d379")
+		)
+		(pin "11"
+			(uuid "47da9f7c-697b-4bce-94a3-02dd4eadc53e")
+		)
+		(pin "25"
+			(uuid "7ab3783d-2129-47cf-bdb2-6c8b007cd3a8")
+		)
+		(instances
+			(project ""
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 95.25 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5272adac-fc48-42f4-8b71-572ee252f3b9")
+		(property "Reference" "SW16"
+			(at 95.25 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 95.25 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 95.25 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 95.25 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 95.25 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d1c8b40c-8c7a-475d-bf8b-22a5f8d79c28")
+		)
+		(pin "1"
+			(uuid "e2965c03-e5b1-428b-b493-d3d3cefdf3b8")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 78.74 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "55294535-2220-4cf2-8e2b-fe5652a7434c")
+		(property "Reference" "SW12-2"
+			(at 78.74 191.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 78.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 78.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 78.74 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "32ab17ba-b1b9-4653-b4a0-8e0f56e497e4")
+		)
+		(pin "1"
+			(uuid "f533b46f-65a9-4e20-a500-fb3c96c26998")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW12-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "568bfc09-9141-48fb-9f5e-c014a7243a45")
+		(property "Reference" "JP17"
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "60417cbe-58b1-494e-a879-3d766082106f")
+		)
+		(pin "1"
+			(uuid "9eda3f60-30e4-4593-96ec-47ca0e9468d2")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 111.76 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57ce441f-cd4f-4975-8c6d-b12b8b1486cf")
+		(property "Reference" "SW17"
+			(at 111.76 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 111.76 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 111.76 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 111.76 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "49a2479a-29e7-43a3-905f-9c117171b0c6")
+		)
+		(pin "1"
+			(uuid "6d76f654-9e43-4f76-81f9-5d7dd2b03f27")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 62.23 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "58144d45-90bf-4236-bfa0-3fb17dbbd683")
+		(property "Reference" "SW1-2"
+			(at 62.23 155.448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 62.23 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 62.23 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 62.23 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3072,16 +5989,85 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 83.82 107.95 0)
+		(at 85.09 96.52 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "586c1d82-1647-4f01-9941-099b02488cea")
+		(property "Reference" "JP37"
+			(at 84.836 94.234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "37e66e77-d8d4-4337-b1b6-5599721a1c87")
+		)
+		(pin "1"
+			(uuid "64711a34-c74c-43ad-9731-619999b299a7")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6d85d773-6110-494d-9a9d-025d8238aab2")
-		(property "Reference" "JP1"
-			(at 83.82 101.6 0)
+		(uuid "658b6fdc-a0b5-4e60-8c72-87b7e4322c2b")
+		(property "Reference" "JP3"
+			(at 66.04 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3090,7 +6076,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 83.82 104.14 0)
+			(at 66.04 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3099,7 +6085,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 83.82 107.95 0)
+			(at 66.04 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3108,7 +6094,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 107.95 0)
+			(at 66.04 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3117,7 +6103,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 83.82 107.95 0)
+			(at 66.04 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3126,15 +6112,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "f32070ba-30a8-49e6-9168-26d427f7d754")
+			(uuid "2b416e97-541b-44d0-901a-f7fcda034b8b")
 		)
 		(pin "1"
-			(uuid "4e705786-c667-4de6-9bfb-ed97aec923d1")
+			(uuid "903006bc-7811-4444-a1c5-0188dc6cd014")
 		)
 		(instances
 			(project "40%ish V2"
 				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP1")
+					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -3142,15 +6128,16 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 67.31 115.57 0)
+		(at 66.04 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "71a7dbb9-3e1c-41fe-bd4b-df1dd8a0685a")
-		(property "Reference" "JP6"
-			(at 64.262 120.142 0)
+		(fields_autoplaced yes)
+		(uuid "65dee5a9-d05b-497e-aa19-b3ba230f3dc8")
+		(property "Reference" "JP9"
+			(at 66.04 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3159,7 +6146,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 67.31 111.76 0)
+			(at 66.04 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3168,7 +6155,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 67.31 115.57 0)
+			(at 66.04 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3177,7 +6164,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 67.31 115.57 0)
+			(at 66.04 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3186,7 +6173,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 67.31 115.57 0)
+			(at 66.04 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3195,153 +6182,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "5962d314-70f5-4e17-bdff-662d663fd596")
+			(uuid "1b1b8a77-73d8-41b1-ac35-5c5f9f89ed20")
 		)
 		(pin "1"
-			(uuid "f07072ca-30f7-4d48-a157-e5d33b515a0a")
+			(uuid "b8ba302e-b46c-4306-b035-544033e3f115")
 		)
 		(instances
 			(project "40%ish V2"
 				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 134.62 111.76 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "7346bdf9-a640-4741-b183-e9f8017e2c7b")
-		(property "Reference" "JP4"
-			(at 134.62 104.648 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 134.62 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 134.62 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 134.62 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 134.62 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "42b461dc-04fc-49b6-b8bd-4bf9aa233c63")
-		)
-		(pin "1"
-			(uuid "9e48d1ff-3dd0-4c0d-8929-8dd12c6108c9")
-		)
-		(instances
-			(project "40%ish V2"
-				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 152.4 115.57 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "743737e7-00f6-4c79-8943-7913d9575f56")
-		(property "Reference" "JP8"
-			(at 152.4 108.458 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 152.4 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 152.4 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 152.4 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 152.4 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1a0b48c9-c842-4740-92cb-acf65d0e58c0")
-		)
-		(pin "1"
-			(uuid "62f6b1fe-f879-4a7e-8a9d-d7f2b2a8c09f")
-		)
-		(instances
-			(project "40%ish V2"
-				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP8")
+					(reference "JP9")
 					(unit 1)
 				)
 			)
@@ -3349,15 +6198,15 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 80.01 90.17 0)
+		(at 62.23 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "7ed0d301-dc09-4a1d-aee7-41866229442c")
-		(property "Reference" "SW1"
-			(at 80.01 82.55 0)
+		(uuid "65e39b99-f9f4-45d5-83ee-6475bb4ba58b")
+		(property "Reference" "SW6-2"
+			(at 62.23 173.228 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3365,7 +6214,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 80.01 85.09 0)
+			(at 62.23 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3373,7 +6222,7 @@
 			)
 		)
 		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
-			(at 80.01 85.09 0)
+			(at 62.23 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3382,7 +6231,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 80.01 85.09 0)
+			(at 62.23 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3391,7 +6240,683 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 80.01 90.17 0)
+			(at 62.23 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "adf4c47e-4afa-409c-a5ba-7acfc47fbcac")
+		)
+		(pin "1"
+			(uuid "81d5c28e-df2d-4336-99f2-f6b5546a5a80")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW6-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "6a73f3ad-1a54-4a5c-93f3-1695d7502fa5")
+		(property "Reference" "JP32"
+			(at 62.992 130.302 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0cf721ed-79f2-4058-8139-6ae681e0b63d")
+		)
+		(pin "1"
+			(uuid "7f26cb3a-b5a1-4779-9903-8285fca764a0")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 128.27 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6de1ff2c-26fa-44a2-81ff-3cf2f66b3803")
+		(property "Reference" "SW10"
+			(at 128.27 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 128.27 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 128.27 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "53572a6c-ac05-4805-8b89-936834d04b54")
+		)
+		(pin "1"
+			(uuid "901efb99-4b34-43e3-bfc3-2d83c2c0c018")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 125.73 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "707b5dcc-e447-40f3-ac20-0ed13703f667")
+		(property "Reference" "JP44"
+			(at 85.09 118.618 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3c126db6-d385-4432-bce7-8c30a91864bf")
+		)
+		(pin "1"
+			(uuid "03edee40-7e33-4db2-a44c-430b7740438e")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 132.08 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "75c10a54-52cb-45dd-aa0f-3aba0c360cef")
+		(property "Reference" "JP45"
+			(at 84.836 129.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "199c94d5-f578-4b23-82db-e19c6e9899c5")
+		)
+		(pin "1"
+			(uuid "371ebe95-f242-433f-b10f-162ed8cbd05a")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 111.76 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "75e97dac-9372-4518-b397-23cb8d161a20")
+		(property "Reference" "SW17-2"
+			(at 111.76 208.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 111.76 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 111.76 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 111.76 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "62f294c2-d77b-469d-9a62-3795596556d6")
+		)
+		(pin "1"
+			(uuid "f581df8b-79aa-4f01-a8d5-db183afa758a")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW17-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 128.27 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7cad1b5a-2948-4d82-99f8-70dc7fd618d9")
+		(property "Reference" "SW18-2"
+			(at 128.27 209.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 128.27 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 128.27 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9f2a06d2-7934-4861-8a3e-912636fd9491")
+		)
+		(pin "1"
+			(uuid "eae39ccc-6fc1-4e83-b854-55896daa3e8c")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW18-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "7dfc85e4-7941-4e29-bc36-d8d7af11e5ec")
+		(property "Reference" "JP18"
+			(at 62.992 59.182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6e84ea49-a15c-4560-bf1f-dc331a811034")
+		)
+		(pin "1"
+			(uuid "2a0fdaf5-c99d-467b-9af8-3ca0680d6779")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 111.76 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7e677b9d-f541-47d1-b91b-92d444a0e966")
+		(property "Reference" "SW9-2"
+			(at 111.76 173.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 111.76 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 111.76 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 111.76 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8aca86e8-1551-4c50-a731-1e3ac8a96293")
+		)
+		(pin "1"
+			(uuid "50f1668c-bd6d-4394-b98e-c5bb6458cb94")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW9-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 88.9 60.96 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7e82db4e-0adb-4934-bb65-1eab234ac168")
+		(property "Reference" "#PWR022"
+			(at 88.9 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 88.9 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 88.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a83abb1a-951c-4683-b5c0-a3e88022b536")
+		)
+		(instances
+			(project ""
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 62.23 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7ed0d301-dc09-4a1d-aee7-41866229442c")
+		(property "Reference" "SW1"
+			(at 62.23 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 62.23 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 62.23 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 62.23 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3416,16 +6941,15 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 83.82 111.76 0)
+		(at 85.09 43.18 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8a8cdc70-8baf-473a-9b6c-561a51869a14")
-		(property "Reference" "JP2"
-			(at 83.82 105.41 0)
+		(uuid "88ea477f-c1de-4c65-83b9-7e353fb73e41")
+		(property "Reference" "JP15"
+			(at 84.836 40.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3434,7 +6958,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 83.82 107.95 0)
+			(at 85.09 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3443,7 +6967,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 83.82 111.76 0)
+			(at 85.09 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3452,7 +6976,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 111.76 0)
+			(at 85.09 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3461,7 +6985,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 83.82 111.76 0)
+			(at 85.09 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3470,228 +6994,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "36acd94c-f8de-48a1-9875-972fe68ea8c7")
+			(uuid "4cf63c7e-0430-48bc-aef8-514d3d9fe437")
 		)
 		(pin "1"
-			(uuid "b6d05c99-a0bb-4f02-80cb-31450122d61f")
+			(uuid "138b6d94-fe3e-4a13-99f1-4656e9edd895")
 		)
 		(instances
 			(project "40%ish V2"
 				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 67.31 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "938e56b0-dc66-4121-86d4-9d4456d873ba")
-		(property "Reference" "JP5"
-			(at 67.31 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 67.31 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 67.31 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 67.31 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 67.31 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0e1e1d3a-fe0b-423d-9997-56be5ac44cac")
-		)
-		(pin "1"
-			(uuid "79c4727d-a0b6-4453-9f77-a7e4ee05504a")
-		)
-		(instances
-			(project "40%ish V2"
-				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:MCU_Nice_Nano_V2")
-		(at 233.68 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "99799064-16e2-473c-b56a-616e1be460b7")
-		(property "Reference" "U1"
-			(at 233.68 82.55 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "Nice_Nano_V2"
-			(at 233.68 85.09 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_MCU:Nice_Nano_V2"
-			(at 233.68 86.36 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 260.35 127 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 233.68 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "19"
-			(uuid "dae6933c-016b-47a7-a412-757b0301b01c")
-		)
-		(pin "23"
-			(uuid "5df47945-da8a-4695-92a3-d90567964bdc")
-		)
-		(pin "9"
-			(uuid "4ee37118-dae9-4a77-bf32-8c1a30c7bd1d")
-		)
-		(pin "12"
-			(uuid "4c805e7a-65ae-4ad6-89ea-67830d950f01")
-		)
-		(pin "18"
-			(uuid "abcc8d68-79ba-43a5-ba9c-4bdd6ff6fc11")
-		)
-		(pin "25"
-			(uuid "11e79311-13de-4077-99f0-4272195d4286")
-		)
-		(pin "13"
-			(uuid "bd1a6eee-c50d-43d3-94be-f1ac9eee2f3d")
-		)
-		(pin "14"
-			(uuid "dd8a2d68-3be5-45b9-a660-166aea7b949a")
-		)
-		(pin "24"
-			(uuid "3cc062d7-3afe-4c9c-bfa0-45152ba08366")
-		)
-		(pin "10"
-			(uuid "cad71c8d-4e91-4a68-b01d-143a81559844")
-		)
-		(pin "16"
-			(uuid "55de558c-59a1-44b9-8fe2-d5fe19e0b442")
-		)
-		(pin "26"
-			(uuid "a69be68f-cbc3-4ac4-9f47-26784274d94a")
-		)
-		(pin "15"
-			(uuid "cf395096-67a4-4301-970b-4b7c61abb16a")
-		)
-		(pin "11"
-			(uuid "f93250c2-8538-4cc7-ac82-242c610c0de0")
-		)
-		(pin "7"
-			(uuid "eebf0f9a-1f51-42eb-934c-eb616d2e64db")
-		)
-		(pin "6"
-			(uuid "4669882c-9bf7-4be3-81e3-e4f4862c06e5")
-		)
-		(pin "5"
-			(uuid "caeb0452-11c0-4690-b215-47e82444f4da")
-		)
-		(pin "4"
-			(uuid "410f4930-03fd-4e68-9cb4-1329f9f849c6")
-		)
-		(pin "3"
-			(uuid "93429ba5-f983-47a4-8d4a-2404dd43f46e")
-		)
-		(pin "2"
-			(uuid "3e1144ee-b8a8-45b2-9816-c62c876f2392")
-		)
-		(pin "1"
-			(uuid "a40472b1-9c12-444a-8d3a-148152912869")
-		)
-		(pin "8"
-			(uuid "96839f1b-981c-428a-9910-0a0015554753")
-		)
-		(pin "27"
-			(uuid "ecc5d588-7b6b-49df-93e4-4797ce12b2ff")
-		)
-		(pin "22"
-			(uuid "71be2d29-e6ac-4a98-a280-d010c176f8a1")
-		)
-		(pin "20"
-			(uuid "0c17511c-cdbf-4aff-9893-9d7be113ecbe")
-		)
-		(pin "21"
-			(uuid "56964339-8d66-482e-8696-f19fc35708d1")
-		)
-		(pin "17"
-			(uuid "74e49562-699d-4f1e-9b9d-1c9f54b911de")
-		)
-		(instances
-			(project ""
-				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "U1")
+					(reference "JP15")
 					(unit 1)
 				)
 			)
@@ -3699,16 +7010,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 91.44 90.17 0)
+		(at 90.17 218.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "abdc9f73-5c5e-4b79-b5ac-d5bd5251f31e")
-		(property "Reference" "#PWR017"
-			(at 91.44 96.52 0)
+		(uuid "8b129e7c-ffa7-49f8-8f9b-47b0831d33a1")
+		(property "Reference" "#PWR013"
+			(at 90.17 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3717,7 +7028,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 91.44 95.25 0)
+			(at 90.17 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3725,7 +7036,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 91.44 90.17 0)
+			(at 90.17 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3734,7 +7045,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 90.17 0)
+			(at 90.17 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3743,7 +7054,611 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 91.44 90.17 0)
+			(at 90.17 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b8130d1-d597-4be1-98eb-ae450aa94e9d")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 106.68 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92ff953b-9ecb-4a1e-8a19-874415f17e07")
+		(property "Reference" "#PWR011"
+			(at 106.68 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4e4b75c8-db57-4ad1-87f3-c8d08f0a93a1")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 128.27 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "97fef174-b96e-4284-850b-b9f5ef729e7b")
+		(property "Reference" "SW15"
+			(at 128.27 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 128.27 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 128.27 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b4552642-bbbd-4a14-9e07-e4a039ef675c")
+		)
+		(pin "1"
+			(uuid "5f43e06c-4612-42ed-ac3f-d3c640bbcede")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 143.51 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "980c48cb-10f6-4cf2-802a-279e642c6d80")
+		(property "Reference" "JP48"
+			(at 85.09 136.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3a0bf97c-e154-457c-bb1d-2b8080fd5b8e")
+		)
+		(pin "1"
+			(uuid "27bc128d-9ae1-4dcd-b761-0e35454362ce")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "98bd0c04-ddc2-41bf-afed-5dea259b3ee7")
+		(property "Reference" "JP14"
+			(at 62.992 50.292 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f283f891-afe4-468c-a931-99459ba8ea00")
+		)
+		(pin "1"
+			(uuid "5db1cc68-5d73-4f84-9b43-e20b06613267")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 78.74 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9a051df7-1292-42c0-8e1b-cb66116f7635")
+		(property "Reference" "SW7-2"
+			(at 78.74 173.228 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 78.74 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 78.74 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.74 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 78.74 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d3b011e7-8dae-44c5-807d-375a4b08eeb5")
+		)
+		(pin "1"
+			(uuid "e360d851-f5b7-455a-9c20-1604e188aa74")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW7-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 128.27 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a0387e04-323f-4831-9274-a6b2c154830f")
+		(property "Reference" "SW5"
+			(at 128.27 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 128.27 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 128.27 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "47bd1ce5-7661-4e07-8c3d-557cbc59fc44")
+		)
+		(pin "1"
+			(uuid "7b4b8ed7-3d43-4f26-91b4-611f9fed4ac4")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 57.15 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a62b23de-c12d-4f6d-8d71-dc1472a8f1b2")
+		(property "Reference" "#PWR03"
+			(at 57.15 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 57.15 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 57.15 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 57.15 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "56a43c36-28be-408c-a431-ec9f3fcc8f3d")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 111.76 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aa3ad88e-a8fa-419e-a606-77811de81318")
+		(property "Reference" "SW14-2"
+			(at 111.76 191.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 111.76 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 111.76 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 111.76 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "139b814c-3ece-4b78-90b7-15816f22ae15")
+		)
+		(pin "1"
+			(uuid "5c00609e-0dd6-4ba9-929b-c366b283014f")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW14-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 73.66 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "abdc9f73-5c5e-4b79-b5ac-d5bd5251f31e")
+		(property "Reference" "#PWR017"
+			(at 73.66 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 73.66 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3764,33 +7679,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Seeed_Studio_XIAO_Series:XIAO-RP2040-DIP")
-		(at 95.25 106.68 0)
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 87.63 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af63cfca-107a-4ba3-b1ea-cb9f6cc7ec8c")
-		(property "Reference" "U3"
-			(at 109.22 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "XIAO-RP2040-DIP"
-			(at 109.22 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-RP2040-DIP"
-			(at 109.728 138.938 0)
+		(uuid "b184bf87-046b-490b-8829-a1c19c7032f0")
+		(property "Reference" "JP7"
+			(at 84.836 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3798,8 +7696,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 95.25 106.68 0)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3807,94 +7705,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 95.25 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "b983812c-c98e-4e5e-be72-1ed71e56835a")
-		)
-		(pin "10"
-			(uuid "e7ffb75a-c1b4-415f-96fc-e71ef5dbe393")
-		)
-		(pin "12"
-			(uuid "89dc7ecf-b1c6-4e0b-bb8e-3fdf15dc300f")
-		)
-		(pin "4"
-			(uuid "303ce49c-65aa-4239-bf8e-f59a4eb7f737")
-		)
-		(pin "8"
-			(uuid "3026d9e9-0263-4ffe-aea1-314f848b8bff")
-		)
-		(pin "5"
-			(uuid "37052314-0e43-49bd-b680-75f0a6195740")
-		)
-		(pin "6"
-			(uuid "ff46c13f-333a-410e-900e-43aebe53fdf2")
-		)
-		(pin "1"
-			(uuid "c430e292-44a7-4c89-abd3-e5828a9e48b7")
-		)
-		(pin "14"
-			(uuid "0ef661de-9b52-4c4f-922e-70adf2248d08")
-		)
-		(pin "11"
-			(uuid "9a94f85f-7816-49a4-aec1-de69361f2014")
-		)
-		(pin "2"
-			(uuid "e341c4b0-db38-44a5-a919-d84a8458c59f")
-		)
-		(pin "9"
-			(uuid "838a0e0f-f1ab-474a-8f90-4196b5a71e74")
-		)
-		(pin "13"
-			(uuid "af1085f3-5920-4524-abcf-1daa458525ec")
-		)
-		(pin "7"
-			(uuid "813ed581-d79d-498e-8039-2adbce8dd8d9")
-		)
-		(instances
-			(project ""
-				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 96.52 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b34116d8-dd9e-4e68-b915-466226bd81a5")
-		(property "Reference" "SW2"
-			(at 96.52 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 96.52 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
-			(at 96.52 85.09 0)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3903,7 +7715,75 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 85.09 0)
+			(at 85.09 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "acd25da9-19fa-42e9-a092-c20920c14680")
+		)
+		(pin "1"
+			(uuid "e7fd7f3a-82ee-436f-98eb-a079a5bd172f")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 78.74 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b34116d8-dd9e-4e68-b915-466226bd81a5")
+		(property "Reference" "SW2"
+			(at 78.74 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 78.74 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 78.74 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.74 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3912,7 +7792,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 96.52 90.17 0)
+			(at 78.74 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3936,17 +7816,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 105.41 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "b500b569-0db6-474b-ae58-79e3e0539833")
+		(property "Reference" "JP39"
+			(at 84.836 103.124 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d6490cc4-afca-41ea-8388-eb5d629e4174")
+		)
+		(pin "1"
+			(uuid "0b6b8816-9a19-46bb-a1d3-46e02978900e")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 107.95 90.17 0)
+		(at 123.19 218.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b8c8c4a2-c934-40d4-8ef9-b29899098ef2")
-		(property "Reference" "#PWR021"
-			(at 107.95 96.52 0)
+		(uuid "b50a00c0-fe47-4ecc-a83e-664963cd356d")
+		(property "Reference" "#PWR015"
+			(at 123.19 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3955,7 +7904,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 107.95 95.25 0)
+			(at 123.19 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3963,7 +7912,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 90.17 0)
+			(at 123.19 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3972,7 +7921,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 90.17 0)
+			(at 123.19 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3981,7 +7930,208 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 107.95 90.17 0)
+			(at 123.19 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76fdecc3-1ec2-499a-83e5-6c9755ef49c9")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 73.66 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b5225956-b2e5-4f5e-a830-5bad324a0e02")
+		(property "Reference" "#PWR09"
+			(at 73.66 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 73.66 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b9e95f2-b86e-4e2e-a3d6-3fb19ee36b18")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 78.74 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "b865ea23-ebe6-4fb8-99b7-fd23af669328")
+		(property "Reference" "JP5"
+			(at 84.836 76.454 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1306048c-be07-4760-87c2-91912a363291")
+		)
+		(pin "1"
+			(uuid "5ca48eb1-4f9f-407f-b06a-d4ddd1efd768")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 90.17 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b8c8c4a2-c934-40d4-8ef9-b29899098ef2")
+		(property "Reference" "#PWR021"
+			(at 90.17 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 90.17 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 90.17 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 90.17 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4002,17 +8152,153 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "b8e71bcd-303a-49e8-b267-aad80ecbecc8")
+		(property "Reference" "JP30"
+			(at 62.992 121.412 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "37ef219c-4060-4d2a-b35d-b6f61c06867b")
+		)
+		(pin "1"
+			(uuid "e384ea5b-ec5f-46bc-b061-22a708d6299e")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 111.76 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bac4305c-0f3e-4aeb-87ab-2be624c5c9e4")
+		(property "Reference" "SW4-2"
+			(at 111.76 155.702 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 111.76 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 111.76 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 111.76 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ae08be7f-187b-4a34-ac1d-598647973422")
+		)
+		(pin "1"
+			(uuid "2a50a8cd-3234-4eeb-87de-f22da8103401")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW4-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 74.93 90.17 0)
+		(at 57.15 200.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "cc589c99-f862-4a2b-8397-6f1168572e5f")
-		(property "Reference" "#PWR016"
-			(at 74.93 96.52 0)
+		(uuid "bb38bbf2-a03a-4dd3-bd87-877e3ed31ddb")
+		(property "Reference" "#PWR08"
+			(at 57.15 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4021,7 +8307,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 74.93 95.25 0)
+			(at 57.15 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4029,7 +8315,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 90.17 0)
+			(at 57.15 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4038,7 +8324,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 90.17 0)
+			(at 57.15 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4047,7 +8333,412 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 90.17 0)
+			(at 57.15 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "275c147e-c468-4e55-9dad-5392f6e28db9")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 123.19 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c29f5e78-9156-4724-af9e-0bfedc083c41")
+		(property "Reference" "#PWR02"
+			(at 123.19 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.19 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 123.19 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a0a1c943-fc86-4047-9d32-0c56a38e5609")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 99.06 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "c60f2ade-733d-4657-a773-a4b6ee35fabd")
+		(property "Reference" "JP38"
+			(at 85.09 91.948 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "aaae0314-366d-4a03-97ab-714c14bdc064")
+		)
+		(pin "1"
+			(uuid "d116cf1e-9806-4b36-abdc-9224b9b5d256")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 106.68 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c65744d1-dc2e-4b6d-a9d8-c15acbc701e1")
+		(property "Reference" "#PWR014"
+			(at 106.68 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9cbadbf8-c61a-4776-a040-aa40343e9a24")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 123.19 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "c6cb514f-1d98-4c9b-92b5-5c42bf64737e")
+		(property "Reference" "JP43"
+			(at 84.836 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b0ec687b-3d8f-4d03-9fc6-247cd167cb04")
+		)
+		(pin "1"
+			(uuid "27a7382b-527f-466e-93c4-89d73b0ffaed")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 45.72 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "c7d99ae2-9017-420d-a03f-d010242574df")
+		(property "Reference" "JP16"
+			(at 85.09 38.608 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "78db9bb6-6da6-49e5-852c-ef6f43d96e04")
+		)
+		(pin "1"
+			(uuid "0a232332-df01-416e-a5e5-f1125e5a7677")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 57.15 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc589c99-f862-4a2b-8397-6f1168572e5f")
+		(property "Reference" "#PWR016"
+			(at 57.15 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 57.15 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 57.15 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 57.15 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4068,34 +8759,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 50.8 119.38 0)
+		(lib_id "Switch:SW_Push")
+		(at 111.76 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e9567109-c1d1-4b7b-842c-b42ae6e0c675")
-		(property "Reference" "JP10"
-			(at 47.752 123.952 0)
+		(uuid "cc675e4d-2d04-41d9-a92c-0cce192daacb")
+		(property "Reference" "SW9"
+			(at 111.76 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 50.8 115.57 0)
+		(property "Value" "SW_Push"
+			(at 111.76 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 50.8 119.38 0)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 111.76 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4104,7 +8793,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 119.38 0)
+			(at 111.76 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4112,8 +8801,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 50.8 119.38 0)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 111.76 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4122,15 +8811,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "fc6e2ae1-d845-4afa-8aeb-82137720dfab")
+			(uuid "8d19218f-ff02-4d6d-8271-a196f17876a9")
 		)
 		(pin "1"
-			(uuid "910d7275-1de3-4548-8370-801425a0f52e")
+			(uuid "4353e240-5bb0-4209-8505-21e74154eb56")
 		)
 		(instances
 			(project "40%ish V2"
 				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP10")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -4138,16 +8827,16 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 50.8 115.57 0)
+		(at 66.04 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "eff90ce1-2233-4b2b-9bdc-ff51e0ce06ed")
-		(property "Reference" "JP9"
-			(at 50.8 109.22 0)
+		(uuid "d142aee0-c902-41fb-9798-334801a49111")
+		(property "Reference" "JP21"
+			(at 66.04 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4156,7 +8845,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 50.8 111.76 0)
+			(at 66.04 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4165,7 +8854,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
-			(at 50.8 115.57 0)
+			(at 66.04 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4174,7 +8863,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 50.8 115.57 0)
+			(at 66.04 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4183,7 +8872,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 50.8 115.57 0)
+			(at 66.04 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4192,48 +8881,185 @@
 			)
 		)
 		(pin "2"
-			(uuid "613a6f62-f4e7-4e81-8dbd-c86de8cd6fc5")
+			(uuid "fc369360-95a1-4f0a-8fee-a0b35b26d686")
 		)
 		(pin "1"
-			(uuid "37d3eb55-5227-4dcb-a87c-720b59bf492a")
+			(uuid "cf07c873-bfb8-47c9-a92c-914e2f1afecb")
 		)
 		(instances
 			(project "40%ish V2"
 				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "JP9")
+					(reference "JP21")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Seeed_Studio_XIAO_Series:XIAO-nRF52840-DIP")
-		(at 215.9 100.33 0)
+		(lib_id "Switch:SW_Push")
+		(at 78.74 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f7461540-f334-4dc0-9efd-cfeabb00243a")
-		(property "Reference" "U2"
-			(at 233.68 96.52 0)
+		(uuid "d4f8995f-3926-4da8-bf28-3249cba5a69f")
+		(property "Reference" "SW7"
+			(at 78.74 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "XIAO-nRF52840-DIP"
-			(at 233.68 99.06 0)
+		(property "Value" "SW_Push"
+			(at 78.74 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
-			(at 228.6 131.064 0)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 78.74 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.74 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 78.74 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d58beac1-6aa8-4f1f-abde-06d4025bbede")
+		)
+		(pin "1"
+			(uuid "c18107e9-a777-486f-96a5-a73a1133c511")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 114.3 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "de67ff79-81c0-4bf2-9e74-4ba06ee52f02")
+		(property "Reference" "JP41"
+			(at 84.836 112.014 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "64c2a7a0-4844-47ad-b9cc-de872b1a0981")
+		)
+		(pin "1"
+			(uuid "016ddada-38f6-4fe4-be4e-48f4c5907946")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 88.9 69.85 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "df7ffc92-84d2-4fff-bf81-0febb8c6f7da")
+		(property "Reference" "#PWR024"
+			(at 95.25 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 93.726 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4242,7 +9068,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 97.79 0)
+			(at 88.9 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4250,61 +9076,1042 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 212.09 97.79 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 88.9 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "8"
-			(uuid "054c3ae9-3983-4cb6-8768-3244db57f9ca")
-		)
-		(pin "13"
-			(uuid "76abaa54-457c-4a1f-88fd-d360320ce989")
-		)
-		(pin "11"
-			(uuid "307c0adf-d7cb-4efa-8fed-bafe0b9ab297")
-		)
-		(pin "14"
-			(uuid "6291e806-98f8-4b52-93f2-e3432f5e90c0")
-		)
-		(pin "10"
-			(uuid "26fe57a4-af9e-46bf-83ee-1ed74bd13dda")
-		)
-		(pin "12"
-			(uuid "a0f44513-5bae-4337-9bbd-b44a580e7da1")
 		)
 		(pin "1"
-			(uuid "0a5db57d-32a5-49ac-9625-a72cf5bf9d60")
-		)
-		(pin "2"
-			(uuid "c6bf0d09-e661-45b0-80b6-40c729a52065")
-		)
-		(pin "9"
-			(uuid "69123119-c8f7-4337-936c-b7dea95b474d")
-		)
-		(pin "3"
-			(uuid "3ab4dbcd-9b55-4100-bde3-02e246495bb3")
-		)
-		(pin "4"
-			(uuid "215f40ca-9dad-4f7d-8114-08f3e0a5454f")
-		)
-		(pin "5"
-			(uuid "2e8fcd8a-ddd8-454a-a3a3-27cf3e3b5fac")
-		)
-		(pin "6"
-			(uuid "a0d446af-a7df-40a8-b0f6-b8c51041bd2f")
-		)
-		(pin "7"
-			(uuid "9ed1455b-5f8e-4745-a994-c721f1f976e5")
+			(uuid "cf646f82-770e-4964-89dc-2f2ec3f423f6")
 		)
 		(instances
 			(project ""
 				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
-					(reference "U2")
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 62.23 52.07 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "df939925-78af-4111-96e4-8ebe60d4e532")
+		(property "Reference" "#PWR018"
+			(at 62.23 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 60.198 48.514 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 62.23 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ce9da5a9-efd4-45ae-bde6-0c30d70b72cf")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 128.27 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e26cd9b2-d38b-4f00-a367-c2ff76015e45")
+		(property "Reference" "SW10-2"
+			(at 128.27 173.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 128.27 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 128.27 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9ffe38dc-b63a-4aef-8d51-c721b8bef66c")
+		)
+		(pin "1"
+			(uuid "86a8f09f-9b2c-488b-8514-407ef44dcd61")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW10-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2ce9425-8efb-46ed-b70c-b979620456f5")
+		(property "Reference" "JP25"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b03aea1b-8566-46a9-8c60-4e32947c07f6")
+		)
+		(pin "1"
+			(uuid "9acff239-ff40-452d-bfc8-dc06e1c8a584")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e62a4d36-828c-46ab-bb8a-3a3f867efb12")
+		(property "Reference" "JP13"
+			(at 66.04 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c9e34879-ef10-47b4-aefc-0990d1f50200")
+		)
+		(pin "1"
+			(uuid "ac247ac0-85b6-41e9-bd2d-34cfd6c460ed")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 134.62 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "e7ffc0de-c3e0-469f-bb53-035f61ef1660")
+		(property "Reference" "JP46"
+			(at 85.09 127.508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a96d1e7e-c1cb-4cee-bc23-63c2539fd0e1")
+		)
+		(pin "1"
+			(uuid "dbe52e3a-3f2c-4aed-ae75-1745db821fb7")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 128.27 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ea79d4ea-b2da-4759-ad3e-52184890be7f")
+		(property "Reference" "SW5-2"
+			(at 128.27 155.702 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 128.27 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+			(at 128.27 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 128.27 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6618433c-fb06-4229-bc3d-bbd0b57af327")
+		)
+		(pin "1"
+			(uuid "473a9844-11d1-4cc9-b12f-a0fd6542f4cd")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "SW5-2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 62.23 63.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eaa861d3-c9fe-4269-9701-9df1aad3983d")
+		(property "Reference" "#PWR020"
+			(at 55.88 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 58.42 63.4999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 62.23 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 62.23 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 62.23 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a68fd968-bb30-49ad-b069-16f8bd80533a")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 116.84 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "edaa34f5-1578-4267-a89b-f16f5545737c")
+		(property "Reference" "JP42"
+			(at 85.09 109.728 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0cfeb88c-807f-46a7-b801-6aca097ffff2")
+		)
+		(pin "1"
+			(uuid "f7ae91e9-430e-4c20-9f90-f54d55e51630")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 69.85 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ef57a7bb-dc6a-4964-9b94-44ca2b413822")
+		(property "Reference" "JP27"
+			(at 84.836 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8bb3e2a1-3918-4761-a822-b887efab6bf7")
+		)
+		(pin "1"
+			(uuid "44da39b4-137f-4b16-9c7c-fbfc33d5e959")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 90.17 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f14c453f-78be-4a56-80b0-8b829a82ea59")
+		(property "Reference" "#PWR05"
+			(at 90.17 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 90.17 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 90.17 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 90.17 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d2c64b34-2df7-4f03-bc17-e66e0ddbb295")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 123.19 182.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5da21fc-c648-474c-9c74-7ce7c1e2db9e")
+		(property "Reference" "#PWR07"
+			(at 123.19 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.19 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 123.19 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c50f0a6-1bd0-4055-b66a-4d90034d0de4")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 66.04 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fcc52ffd-a4fc-4b85-a064-746193b79f52")
+		(property "Reference" "JP1"
+			(at 66.04 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 66.04 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 66.04 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 66.04 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3cc17b03-6574-4be6-9e48-55fe9a38a864")
+		)
+		(pin "1"
+			(uuid "55acf91c-052b-4627-9558-d055adeb5a42")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 90.17 200.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe529c0d-073d-4a1b-af38-fae433d30610")
+		(property "Reference" "#PWR010"
+			(at 90.17 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 90.17 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 90.17 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 90.17 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f0c1cc1-eca6-42d0-98fa-8311709cf261")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 81.28 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ff29e081-d30c-4465-946f-d104deb8eb15")
+		(property "Reference" "JP6"
+			(at 85.09 74.168 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "de006de6-c8e1-4adb-b31e-b2eee0eb4f6b")
+		)
+		(pin "1"
+			(uuid "d2bb473d-6516-40d0-989f-0346d4cfd14d")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 85.09 52.07 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ffa083ed-8bec-478c-b75f-d1ac2e4ab5d8")
+		(property "Reference" "JP19"
+			(at 84.836 49.784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 85.09 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 85.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 85.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "385f9880-6354-4f37-a8df-4add565b1c56")
+		)
+		(pin "1"
+			(uuid "2f0f0b79-91dc-4b15-a2e8-6d8825a93bc6")
+		)
+		(instances
+			(project "40%ish V2"
+				(path "/20380bea-4f0d-4bba-9c53-d6ff13765348"
+					(reference "JP19")
 					(unit 1)
 				)
 			)
