@@ -14,7 +14,7 @@ First im deciding if i should use a Xiao nrf or a nice nano v2 so i started test
 
 **Total time spent: 1:30h**
 
-# May 32nd: Getting the rest of the schematic done!
+# June 1st: Getting the rest of the schematic done!
 
 I think that im going to use the nice nano as its easier to make the pcb and schematic because the xiao-nrf-plus does not have a symbol to use in the schematic so most of the work would be on the PCB editor and that would take more work and its just not so pretty and organized.
 
