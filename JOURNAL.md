@@ -23,3 +23,33 @@ Got almost almost the schematic done but its quite hard!
 ![PCB Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6876ec6468606facc6fd5928c0ef354766d43747_screenshot_20250601_132314.png)
 
 **Total time spent: 1h**
+
+# June 2nd: Schematic done and PCB almost!
+
+## Today i made the schematic untill the end! Which is really cool one more step into being done!
+
+**in the schematic i:**
+  - Wired the rest of the pins!
+  - Added rotary encoder with a switch which they are going to be one on top of each other becase like that you can choose between a extra switch or rotary encoder which is a ec11 which has a switch so you are only winning with the rotary encoder.
+
+Here is a photo of the schematic finnished!
+![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9fbb77426b4825ca356e344af6a9c1b08c81db1b_screenshot_20250602_181458.png)
+
+
+Then in the PCB i also did a great part of it!
+
+**in the PCB i**
+  - Wired the solder jumpers which was time consuming even tought it does not look like.
+  ![solderjumpers](https://hc-cdn.hel1.your-objectstorage.com/s/v3/589fcdb464c81dc1e592a9e40315c1d9eca2ba40_screenshot_20250602_181319.png)
+
+  - Arranged the keys in the layout that i really like.
+  - Added the edge cuts.
+  - Somehow the switch and the rotary encoder work really well when they are one on top of each other
+
+Photo of the WIP PCB
+![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/74ccf48eb57b8f6e26eb956aebd7dca3b59b55a9_screenshot_20250602_183218.png)
+
+also here is the rotary encoder
+![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/80ddf41bc9bef5bb97d3526e36137420d803b19e_screenshot_20250602_181337.png)
+
+**Total time spent: 3h**
