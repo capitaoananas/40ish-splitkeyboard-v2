@@ -61,3 +61,5 @@ Today i added mounting holes into the PCB for the screws also then i already add
 While i was making the PCB i saw that the bridge jumpers where filped so they where not in the right direction and then i started remaking it so it was right side up but in the middle of that i realized that actually like that it was better so i actually made something better accidently!
 
 ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d79806022b9edf9e8859842ea95c26b55c54f02c_screenshot_20250603_105227.png)
+
+**Total time spent: 1h**
