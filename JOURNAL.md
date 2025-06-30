@@ -69,3 +69,12 @@ While i was making the PCB i saw that the bridge jumpers where filped so they wh
 So today i felt really productive and made the PCB untill the end! which is really cool because like that i can submit it!
 
 I made some changes also to the PCB 
+- Took the rotary encoder out.
+
+Also wired everything diffrently so yeah its ready!
+
+![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d6a854c8c6da6bb1c9380820ec224b703f8cc25e_screenshot_20250630_132012.png)
+
+![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a61bb108c3db1bfa30c15f1a1ea8f8c805aac363_screenshot_20250630_131115.png)
+
+**Total time spent: 2h**
