@@ -25,14 +25,15 @@ This is the **second generation** of the 40%ish split keyboard — an open-sourc
 
 ## 📦 Bill of Materials (BOM)
 
-| Part                                 | Quantity | Price   | Link                                                                                                                  | Notes                                                                                  |
-|--------------------------------------|----------|---------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| PCB                                  | 5        | $19.31  | [JLCPCB](https://jlcpcb.com/)                                                                                         | 5 is the minimum order quantity                                                        |
-| Nice!Nano V2                         | 2        | $83.22  | [Kris Cables](https://kriscables.com/product/nicenano/)                                                               | Yes, they’re expensive, but in stock                                                   |
-| Haimu x Geon Silent Tactile Switches | 40       | $49.38  | [Delta Key](https://deltakeyco.com/collections/geon-switches/products/haimu-x-geon-hg-yellow-silent-tactile-switches) | Sold in packs of 10 – you need 36                                                      |
-| Mill Max Socket Pins                 | 48       | $9.18   | [Kris Cables](https://kriscables.com/product/mill-max-socket-pins/)                                                   | Slightly pricey, but buying from same store saves shipping                            |
-| Microcontroller Hotswap Sockets      | 4        | $9.18   | [Kris Cables](https://kriscables.com/product/mill-max-low-profile-sockets/)                                           | Same deal — bundled shipping helps                                                     |
+| Part                                 | Quantity | Price  | Link                                                                                                                  | Notes                                                      |
+| ------------------------------------ | -------- | ------ | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| PCB                                  | 5        | $19.31 | [JLCPCB](https://jlcpcb.com/)                                                                                         | 5 is the minimum order quantity                            |
+| Nice!Nano V2                         | 2        | $83.22 | [Kris Cables](https://kriscables.com/product/nicenano/)                                                               | Yes, they’re expensive, but in stock                       |
+| Haimu x Geon Silent Tactile Switches | 40       | $49.38 | [Delta Key](https://deltakeyco.com/collections/geon-switches/products/haimu-x-geon-hg-yellow-silent-tactile-switches) | Sold in packs of 10 – you need 36                          |
+| Mill Max Socket Pins                 | 48       | $9.18  | [Kris Cables](https://kriscables.com/product/mill-max-socket-pins/)                                                   | Slightly pricey, but buying from same store saves shipping |
+| Microcontroller Hotswap Sockets      | 4        | $9.18  | [Kris Cables](https://kriscables.com/product/mill-max-low-profile-sockets/)                                           | Same deal — bundled shipping helps                         |
+| SDA keycaps                          | 1 set    | $23.50 | [amazon](https://www.amazon.com/YMDK-Profile-Keyset-Mechanical-Keyboard/dp/B07S18VCDN?ref_=ast_sto_dp&th=1)           | Cheap and good                                             |
 
-<sub>Prices include shipping (at the time of writing).</sub>
+Prices include shipping (at the time of writing).
 
 ---
