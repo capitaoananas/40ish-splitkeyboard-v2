@@ -63,3 +63,9 @@ While i was making the PCB i saw that the bridge jumpers where filped so they wh
 ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d79806022b9edf9e8859842ea95c26b55c54f02c_screenshot_20250603_105227.png)
 
 **Total time spent: 1h**
+
+#June 30th: PCB done! Almost ready to submit.
+
+So today i felt really productive and made the PCB untill the end! which is really cool because like that i can submit it!
+
+I made some changes also to the PCB 
