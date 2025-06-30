@@ -19,7 +19,7 @@ This is the **second generation** of the 40%ish split keyboard — an open-sourc
 - **Split layout** – 18 keys per side (36 total), column-staggered
 - **MX hotswap** – change your switches anytime, no soldering needed
 - **Wireless** – powered by Nice!Nano V2 + ZMK or RMK
-- **Fully open-source** – PCB, firmware, case files, all available
+- **Fully open-source** – PCB, firmware, case files
 
 ---
 
