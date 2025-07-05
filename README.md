@@ -36,6 +36,5 @@ This is the **second generation** of the 40%ish split keyboard — an open-sourc
 |                                      |          |        | 
 
 
-Prices include shipping (at the time of writing).
-
+Prices include shipping
 ---
