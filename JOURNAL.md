@@ -78,3 +78,11 @@ Also wired everything diffrently so yeah its ready!
 ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a61bb108c3db1bfa30c15f1a1ea8f8c805aac363_screenshot_20250630_131115.png)
 
 **Total time spent: 2h**
+
+# July 6th: Write code
+
+So today i wrote the code for the keyboard i used RMK which in my opinion is easyer and better the QMK or KMK so yeah its really cool it was actually really easy becasue it was not my first time using RMK but if you want to see their website is rmk.rs 
+
+But yeah just finnishing a few things on the BOM and i'm done to submit!
+
+**Total time spent: 1h**
