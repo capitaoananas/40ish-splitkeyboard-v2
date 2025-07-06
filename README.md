@@ -35,6 +35,6 @@ This is the **second generation** of the 40%ish split keyboard — an open-sourc
 | Kailh hotswap sockets                | 36       | $6.67  | [aliexpress](https://pt.aliexpress.com/item/32951252318.html?spm=a2g0o.productlist.main.21.5090vkJPvkJPra&algo_pvid=acb05e60-2951-413b-91f9-12cc7be20dbc&algo_exp_id=acb05e60-2951-413b-91f9-12cc7be20dbc-20&pdp_ext_f=%7B%22order%22%3A%2279%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%215.68%215.68%21%21%216.49%216.49%21%402103867617511082823454226eeda5%2112000036652544705%21sea%21PT%216372042523%21X&curPageLogUid=dALRGMcuMEGW&utparam-url=scene%3Asearch%7Cquery_from%3A) | aliexpress is awesome                                      |
 |                                      |          |        | 
 
+<dub>Prices include shipping<dub>
 
-Prices include shipping
 ---
