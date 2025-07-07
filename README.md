@@ -51,12 +51,19 @@ Schematic             |  PCB
 :-------------------------:|:-------------------------:
 ![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3ed57005d6082db0f6377353567a8ec020ae9076_image.png)  |  ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4dffa5706f3bec64283adbd1a98f64e3542b47bf_screenshot_2025-07-07_092932.png)
 
-### 3D Renders
+### Case
 
-The case was made in Fusion
+The case was made in Fusion in a sandwich style case
+
+Plate             |  Bottom
+:-------------------------:|:-------------------------:
+![Plate](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9d5c25676295558a3f1919c0c8d7e697f13226de_40_ish_v2_case_2025-jul-05_04-50-05pm-000_customizedview3364258380.png)  |  ![Bottom](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0deb7f7d5099e66774debaf48bba5fec7e5f670f_40_ish_v2_case_2025-jul-05_04-50-41pm-000_customizedview27644930984.png)
+
+### Final Renders
 
 Side             |  Top
 :-------------------------:|:-------------------------:
-![side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fa489d54e0352336db987841671457d9239b8cf_40_ish_v2_case_2025-jul-05_04-20-08pm-000_customizedview622321217.png)  |  ![top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b43d0dbd81ab2dcbb0810d2a18a2dffbfb5b2c52_40_ish_v2_case_2025-jul-05_04-23-28pm-000_customizedview28197339788.png)
+![Side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fa489d54e0352336db987841671457d9239b8cf_40_ish_v2_case_2025-jul-05_04-20-08pm-000_customizedview622321217.png)  |  ![Top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b43d0dbd81ab2dcbb0810d2a18a2dffbfb5b2c52_40_ish_v2_case_2025-jul-05_04-23-28pm-000_customizedview28197339788.png)
+
 
 ---
