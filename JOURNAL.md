@@ -86,3 +86,20 @@ So today i wrote the code for the keyboard i used RMK which in my opinion is eas
 But yeah just finnishing a few things on the BOM and i'm done to submit!
 
 **Total time spent: 1h**
+
+# July 5th: Making the case!
+
+So i saw online the corne keyboard case that was sandwich style and i really like it becasue it was so minimal! so i started by exporting the User.Drawing from Kicad becasue my plate is a bit complicated and it would be even harder if i tried to use one of those plate genarators so yeah i exported it as a dxf and imported onto a sketch and deleted useless elements and then i had a general plate which was exactly th size of my pcb it was easier then the first time i did it (made it for the v1 of the keyboard) yeah so it was already looking good so i reversed the desing for the right side which is exactly the same besides the little standoffs that i added
+After that i went onto the bottom part which was really easy because i already had the shape of the keyboard because of the plate! so what i only needed to do is make the bottom standoffs the right size and it was done! But then i rememberd a really cool keyboard which the case was really slim because the bottom part had holes for the hotswap sockets so that was a bit tedious becasue i had to recreate the shape of the hotswap socket but when everything was done it was worth it i really like how it turned out in fact the PCB of the keyboard has those holes in it because i already had in mind of making a case like this so yeah! here is the finall result
+
+ Plate             |  Bottom | Full Case
+:-------------------------:|:-------------------------:|:-------------------------:
+![Plate](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9d5c25676295558a3f1919c0c8d7e697f13226de_40_ish_v2_case_2025-jul-05_04-50-05pm-000_customizedview3364258380.png)  |  ![Bottom](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0deb7f7d5099e66774debaf48bba5fec7e5f670f_40_ish_v2_case_2025-jul-05_04-50-41pm-000_customizedview27644930984.png) | ![full case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a89094f09b81e580b9727a2726056a9d8fe39cb4_40_ish_v2_case_2025-jul-07_08-16-01pm-000_customizedview278695978.png)
+
+Finall renders
+
+Side             |  Top
+:-------------------------:|:-------------------------:
+![Side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fa489d54e0352336db987841671457d9239b8cf_40_ish_v2_case_2025-jul-05_04-20-08pm-000_customizedview622321217.png)  |  ![Top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b43d0dbd81ab2dcbb0810d2a18a2dffbfb5b2c52_40_ish_v2_case_2025-jul-05_04-23-28pm-000_customizedview28197339788.png)
+
+
