@@ -102,4 +102,4 @@ Side             |  Top
 :-------------------------:|:-------------------------:
 ![Side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fa489d54e0352336db987841671457d9239b8cf_40_ish_v2_case_2025-jul-05_04-20-08pm-000_customizedview622321217.png)  |  ![Top](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b43d0dbd81ab2dcbb0810d2a18a2dffbfb5b2c52_40_ish_v2_case_2025-jul-05_04-23-28pm-000_customizedview28197339788.png)
 
-
+**Total time spent: 2-3h**
