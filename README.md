@@ -40,3 +40,13 @@ This is the **second generation** of the 40%ish split keyboard — an open-sourc
 <dub>Prices include shipping<dub>
 
 ---
+
+## PCB overview
+
+The PCB was made in Kicad
+
+![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3ed57005d6082db0f6377353567a8ec020ae9076_image.png)
+
+![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4dffa5706f3bec64283adbd1a98f64e3542b47bf_screenshot_2025-07-07_092932.png)
+
+---
